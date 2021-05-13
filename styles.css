@@ -1,0 +1,192 @@
+@font-face {
+    font-family: copal-std-decorated;
+    src: url(assets/copal-std-decorated.woff);
+  }
+body * {
+    font-family: raleway, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+body {
+    /* background-color: black; */
+    color:white;
+    padding:20px;
+}
+.logo {
+    font-family: copal-std-decorated,sans-serif;
+    font-weight: 400;
+    font-size: 44pt;
+    font-style: normal;
+    line-height: 0;
+    padding-left: .25em;
+    color: rgb(230,230,230);
+    text-align: center;
+}
+
+.scene {
+   
+    perspective: 1000px;
+    margin:0 auto;
+  }
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:0 auto;
+    vertical-align: middle;
+    margin-top:1vh;
+    /* this width should be the same as site list */
+    width: 500px;
+    height: 300px;
+    line-height: 1;
+    font-size: 44pt;
+    text-align: center;
+    position: relative;
+    transition: transform 1s;
+    transform-style: preserve-3d;
+    margin-bottom: 40px;
+}
+
+.card-icon {
+    width:30%;
+    margin:0 auto;
+    margin-bottom:25px;
+    margin-top:50px;
+}
+
+.card__face {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+.card__face--front {
+    background-color: rgb(230,230,230);
+    color:rgb(30,30,30);
+}
+  
+.card__face--back {
+    background-color: rgb(230,230,230);
+    transform: rotateY( 180deg );
+    color:rgb(30,30,30);
+}
+
+.is-flipped {
+    transform: rotateY(180deg);
+}
+
+.widget-url {
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.widget {
+    text-align: center;
+    padding:10px;
+    width: 80px;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+.widget:hover {
+    border-radius: 4px;
+    background-color: rgba(255,255,255,0.5);
+    cursor: pointer;
+}
+
+.widget-icon {
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    line-height: 4.5;
+    margin: 20px;
+}
+
+.site-list {
+    display: flex;
+    /* keep this width the same as the card */
+    width: 500px;
+    justify-content: flex-start;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.action-panel {
+    display: flex;
+    justify-content: center;
+    margin:0 auto;
+    width:30%;
+    padding:10px;
+}
+
+.change-word {
+    background-color:transparent;
+    border:none;
+    outline:none;
+}
+
+.change-word:hover {
+    background-color:blueviolet;
+}
+
+.options-page-container {
+    background-color: rgb(30,30,30);
+}
+
+.options-box-title {
+    font-size: 44pt;
+    margin-bottom: 20pt;
+}
+.options-box-subtitle {
+    font-size: 22pt;
+    margin-top:10pt;
+}
+.options-box-button {
+    font-size: 32pt;
+}
+.deck-options-label {
+    font-size: 24pt;
+    color:white;
+}
+
+#options_page {
+    margin:0 auto;
+}
+
+  button {
+    outline: none;
+    margin: 10px;
+  }
+
+.cog-button-container {
+    position: fixed;
+    right:0;
+    top:0;
+    width:100px;
+    padding:20px;
+    z-index: 9999;
+}
+.cog-button {
+    font-size: 44px;
+    background-color: transparent;
+    border: none;
+}
+.toggle-top-sites {
+    background-color: transparent;
+    border:none;
+    font-size: 28pt;
+}
+.hide-top-sites {
+    display: none;
+}
+
+

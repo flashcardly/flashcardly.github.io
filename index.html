@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css" type="text/css" />
+
+    <title>Flashcardly!</title>
+</head>
+
+<body>
+    <h1 class="logo">flashcardly!</h1>
+    <div class="cog-button-container">
+        <button style="display:none" id="cog_button" class="cog-button">⚙️</button>
+    </div>
+    <div class="scene">
+        <div id="card" class="card">
+            <h2 class="card__face card__face--front" id="frontWord"></h2>
+            <h2 class="card__face card__face--back" id="backWord"></h2>
+        </div>
+        <div class="action-panel">
+            <button class="change-word" id="flip_card">
+                <img src="./assets/shuffle.svg" />
+            </button>
+        </div>
+    </div>
+    <button style="display:none" class="toggle-top-sites" id="toggle-top-sites">▶</button>
+    <div class="site-list" id="siteList"></div>
+    <script>
+        if (!("chrome" in window)) {
+            window.chrome = { storage: { get: function () {
+
+            } } }
+        }
+        // chrome.storage.get()
+        // porting so that the code works 
+
+        // {"0":["showTopSites"]}
+        // {"0":["language"]}
+        if (window.chrome && !(window.chrome.storage)) {
+            window.chrome.storage = { get: function () {
+                console.log("~ ", arguments);
+                return
+            } }
+            window.chrome.storage.sync = {
+                get: function (params, callback) {
+                let obj = {};
+                for(let item of params){
+                    if(item === "language"){
+                        obj.language = "ES";
+                    } 
+                }
+                // alert(JSON.stringify(arguments));
+
+                return callback(obj)
+            }, 
+                set: function (settings, callback) {
+                    console.log(JSON.stringify(settings));
+                    return callback();
+                }
+            }
+            window.chrome.topSites = { get: function () {
+                return [];
+            }}
+            window.chrome.runtime = {};
+            window.chrome.runtime.lastError = undefined;
+        }
+
+    </script>
+    <script src="./options.js"></script>
+    <script src="./spanish.js"></script>
+    <script src="./french.js"></script>
+    <script src="./deck.js"></script>
+    <script src="./srs.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-76794537-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-76794537-1');
+    </script>
+</body>
+
+</html>
