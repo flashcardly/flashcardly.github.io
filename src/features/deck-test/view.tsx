@@ -1,5 +1,5 @@
 import React from "react";
-import StorageProvider from "./storage.provider";
+import StorageProvider from "../../providers/storage.provider";
 
 export const DeckTest = ({ }) => {
   const storage = React.useContext(StorageProvider);
@@ -23,3 +23,14 @@ export const DeckTest = ({ }) => {
     </section>
   );
 };
+/*
+Pages
+  - Flashcard Page
+    - Features
+       - Flash Card View
+
+       - User Settings
+
+
+
+*/
