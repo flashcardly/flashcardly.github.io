@@ -2,16 +2,14 @@ import React, {useContext, useState, useEffect} from 'react'
 import StorageProvider from '../providers/storage.provider'
 // TODO: refactor this to be platform-agnostic
 import { getDeck } from "../services/deck-loader/deck-loader.web";
+import { Flashcard } from '../features/flashcard/flashcard';
+import {Card} from '../types/types'
 
-type Card = {
-  front: string;
-  back: string;
-};
 
-const FlashCardPage = ({ }) => {
+const FlashCardPage = ({}) => {
   const storage = useContext(StorageProvider);
   const [deck, setDeck] = useState<Card[]>([]);
-  const [index, setIndex] = useState<number>(0);
+  
 
   useEffect(() => {
     const initialize = async () => {
@@ -22,7 +20,6 @@ const FlashCardPage = ({ }) => {
       }
 
       setDeck(deck);
-      setIndex(Math.floor(Math.random() * deck.length));
     };
 
     initialize();
@@ -34,7 +31,8 @@ const FlashCardPage = ({ }) => {
 
   return (
     <article>
-      {deck[index].front}
+      <h1 className="logo">Flashcardly!</h1>
+    <Flashcard deck={deck}/>
     </article>
   );
 };
