@@ -14,10 +14,11 @@ export const usePreferences = (): UsePreferencesOutput => {
     selectedDeck: "ES-EN"
   });
 
-  const setPreferences = useCallback((preferences: Preferences) => {
+  const setPreferences = (preferences: Preferences) => {
+    console.log("SETTING PREFERENCES");
     storage.setValue("preferences", preferences)
-      .then(() => setPreferenceData(preferences))
-  }, [storage, setPreferenceData]);
+      .then(() => setPreferenceData(preferences));
+  };
 
   useEffect(() => {
     storage.getValue("preferences")
