@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import Storage from "../../providers/storage.provider";
-import OptionsContext from "./options.provider";
+import OptionsContext from "./options.context";
 import { Options } from "./options.types";
 
 export const useOptions = () => {
@@ -12,7 +12,7 @@ export const useOptions = () => {
       .then(() => setOptions(options));
   };
 
-  return [options, updateOptions];
+  return [options, updateOptions] as const;
 };
 
 /*
@@ -21,7 +21,7 @@ export const useOptions = () => {
     integrate into FlashCard page
     integrate into Deck hook
 
-    ...consider making an OptionsProvider component which wraps OptionsContext and
+    - make an OptionsProvider component which wraps OptionsContext and
       - handles state / setState so that App doesn't need to
       - handles the initialization useEffect so that nothing further down the app needs to 
 */

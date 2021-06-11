@@ -1,7 +1,10 @@
-import React, { useContext, useEffect, useState } from 'react'
+import { useContext } from 'react'
 import StorageProvider from '../../providers/storage.provider'
-import { getDeck } from '../../services/deck-loader/deck-loader.web';
-import {usePreferences, Preferences } from './usePreferences.hook'
+import {
+    // usePreferences,
+    Preferences
+} from './usePreferences.hook'
+import {useOptions} from './useOptions.hook'
 
 const deckManifest = [{
     fileName: "ES-EN",
@@ -18,7 +21,7 @@ type OptionsProps = {
 
 export const Options = ({ onUpdate }: OptionsProps) => {
     const storage = useContext(StorageProvider);
-    const [options, setOptions] = usePreferences();
+    const [options, updateOptions] = useOptions();
     const updateSelectedDeck = (e: any) => {
       const filename = (e.target as HTMLInputElement).value;
       const newOptions = {
@@ -26,7 +29,7 @@ export const Options = ({ onUpdate }: OptionsProps) => {
         selectedDeck: filename
       };
 
-      setOptions(newOptions);
+      updateOptions(newOptions);
     };
 
     return (

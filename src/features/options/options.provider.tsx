@@ -1,22 +1,29 @@
-import { createContext, useContext } from "react";
-import { OptionsState } from "./options.types";
+import React, {useState, useEffect, useContext} from "react";
+import Storage from "../../providers/storage.provider";
+import {Options} from "./options.types";
+import OptionsContext from "./options.context";
 
-const OptionsContext = createContext<OptionsState>({
-  options: { selectedDeck: "" },
-  setOptions: () => {}
-});
+const OptionsProvider = ({ children }: { children: React.ReactChildren | React.ReactChild | null }) => {
+  const [options, setOptions] = useState({ selectedDeck: "ES-EN" });
+  const storage = useContext(Storage);
 
-export default OptionsContext;
+  useEffect(() => {
+    storage.getValue("preferences")
+      .then((storedOptions: Options) => {
+        if (!storedOptions)
+          return;
+        if (storedOptions.selectedDeck === options.selectedDeck)
+          return;
 
-// const useOptions = () => {
-//   const { state, setState } = useContext(OptionsContext);
-//   return [state, setState];
-// };
+        setOptions(storedOptions);
+      });
+  }, []);
 
-// const Component = () => {
-//   const [options, setOptions] = useOptions();
-//   return null;
-// };
+  return (
+    <OptionsContext.Provider value={{ options, setOptions }}>
+      {children}
+    </OptionsContext.Provider>
+  );
+};
 
-
-// render(<OptionsContext.Provider value={{ state: {}, setState: () => {} }}><Component /></OptionsContext.Provider>)
+export default OptionsProvider;

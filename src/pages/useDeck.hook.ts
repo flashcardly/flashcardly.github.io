@@ -1,11 +1,11 @@
 import {useContext, useEffect, useState, useCallback} from 'react'
 import Storage from '../providers/storage.provider'
-import {usePreferences} from '../features/options/usePreferences.hook'
+import {useOptions} from '../features/options/useOptions.hook'
 import {getDeck} from '../services/deck-loader/deck-loader.web'
 import {Deck} from '../types/types'
 
 export const useDeck = () => {
-  const [preferences] = usePreferences();
+  const [options] = useOptions();
   const [initialized, setInitialized] = useState(false);
   const [deck, setDeck] = useState<Deck>([]);
   const storage = useContext(Storage);
@@ -23,14 +23,14 @@ export const useDeck = () => {
     storage.getValue("deck")
       .then(deck => !!deck
         ? setExistingDeck(deck)
-        : loadDeck(preferences.selectedDeck))
+        : loadDeck(options.selectedDeck))
       .then(() => setInitialized(true));
   }, []);
 
   useEffect(() => {
     if (!initialized) return;
-    loadDeck(preferences.selectedDeck);
-  },[preferences.selectedDeck]);
+    loadDeck(options.selectedDeck);
+  },[options.selectedDeck]);
 
   return [deck];
 }

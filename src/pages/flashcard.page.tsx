@@ -1,15 +1,11 @@
-import React, {useContext, useState, useEffect} from 'react'
-import StorageProvider from '../providers/storage.provider'
 // TODO: refactor this to be platform-agnostic
-import { getDeck } from "../services/deck-loader/deck-loader.web";
 import { Flashcard } from '../features/flashcard/flashcard';
-import {Card} from '../types/types'
 import {Options} from '../features/options/Options'
-import { usePreferences } from "../features/options/usePreferences.hook";
+import { useOptions } from "../features/options/useOptions.hook";
 import { useDeck } from "./useDeck.hook";
 
 const FlashCardPage = ({}) => {
-  const [preferences] = usePreferences();
+  const [options] = useOptions();
   const [deck] = useDeck(); 
 
   if (!deck.length) {
@@ -19,7 +15,7 @@ const FlashCardPage = ({}) => {
   return (
     <article>
       <h1 className="logo">Flashcardly!</h1>
-      <div>{preferences.selectedDeck}</div>
+      <div>{options.selectedDeck}</div>
     <Flashcard deck={deck}/>
     <Options />
     </article>
