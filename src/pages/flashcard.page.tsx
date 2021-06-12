@@ -16,8 +16,12 @@ const FlashCardPage = ({}) => {
     <article>
       <h1 className="logo">Flashcardly!</h1>
       <div>{options.selectedDeck}</div>
-    <Flashcard deck={deck}/>
-    <Options />
+      <section>
+        <Flashcard deck={deck}/>
+      </section>
+      <section style={{ paddingTop: "2rem" }}>
+        <Options />
+      </section>
     </article>
   );
 };

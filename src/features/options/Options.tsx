@@ -6,14 +6,24 @@ import {
 } from './usePreferences.hook'
 import {useOptions} from './useOptions.hook'
 
-const deckManifest = [{
-    fileName: "ES-EN",
-    title: "Spanish to English Common Words"
-},
-{
-    fileName: "FR-EN",
-    title: "French to English Common Words"
-}];
+const deckManifest = [
+    {
+        fileName: "ES-EN",
+        title: "Spanish to English"
+    },
+    {
+        fileName: "FR-EN",
+        title: "French to English"
+    },
+    {
+        fileName: "EN-ES",
+        title: "English to Spanish"
+    },
+    {
+        fileName: "EN-FR",
+        title: "English to French"
+    },
+];
 
 type OptionsProps = {
   onUpdate?: (preferences: Preferences) => void;
@@ -36,9 +46,9 @@ export const Options = ({ onUpdate }: OptionsProps) => {
         <section>
             <fieldset onChange={updateSelectedDeck}>
                 <legend>Choose your deck</legend>
-                <ul>
+                <ul style={{"display": "inline-block", "listStyle": "none", paddingLeft: "0" }}>
                     {deckManifest.map((deck) => 
-                        <li>
+                        <li style={{ "textAlign": "left"}}>
                             <label>
                                 <input
                                     value={deck.fileName}
