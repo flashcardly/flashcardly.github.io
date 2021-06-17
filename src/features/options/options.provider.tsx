@@ -4,7 +4,7 @@ import {Options} from "./options.types";
 import OptionsContext from "./options.context";
 
 const OptionsProvider = ({ children }: { children: React.ReactChildren | React.ReactChild | null }) => {
-  const [options, setOptions] = useState({ selectedDeck: "ES-EN" });
+  const [options, setOptions] = useState<Options>({ selectedDeck: "ES-EN", theme: "light" });
   const storage = useContext(Storage);
 
   useEffect(() => {

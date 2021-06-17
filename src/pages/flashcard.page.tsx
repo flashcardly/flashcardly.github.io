@@ -15,7 +15,6 @@ const FlashCardPage = ({}) => {
   return (
     <article>
       <h1 className="logo">Flashcardly!</h1>
-      <div>{options.selectedDeck}</div>
       <section>
         <Flashcard deck={deck}/>
       </section>

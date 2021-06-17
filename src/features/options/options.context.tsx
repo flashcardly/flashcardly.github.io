@@ -2,7 +2,7 @@ import { createContext } from "react";
 import { OptionsState } from "./options.types";
 
 const OptionsContext = createContext<OptionsState>({
-  options: { selectedDeck: "" },
+  options: { selectedDeck: "" , theme: "light" },
   setOptions: () => {}
 });
 

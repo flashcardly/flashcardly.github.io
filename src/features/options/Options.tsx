@@ -44,11 +44,11 @@ export const Options = ({ onUpdate }: OptionsProps) => {
 
     return (
         <section>
-            <fieldset onChange={updateSelectedDeck}>
-                <legend>Choose your deck</legend>
+            <fieldset className="option-list" onChange={updateSelectedDeck}>
+                <legend className="option-header">Choose your deck</legend>
                 <ul style={{"display": "inline-block", "listStyle": "none", paddingLeft: "0" }}>
                     {deckManifest.map((deck) => 
-                        <li style={{ "textAlign": "left"}}>
+                        <li className="option-card" style={{ "textAlign": "left"}}>
                             <label>
                                 <input
                                     value={deck.fileName}

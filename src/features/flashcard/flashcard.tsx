@@ -25,13 +25,13 @@ export const Flashcard = ({ deck }: FlashcardProps): JSX.Element => {
     const text = isFront ? card.front : card.back;
     return (
         <div>
-            <div onClick={flipcard} style={{ "position": "relative", "height": "300px", "width": "500px", "border": "2px solid black", "margin": "0 auto", "backgroundColor":"#f0ffff" }}>
+            <div onClick={flipcard} className="card">
                 <h1>{text}</h1>
                 <div style={{ "position": "absolute", "bottom": "0" }}>
                     <span>click card to show reverse</span>
                 </div>
             </div>
-            <button style={{ "width": "200px", "border": "rgb(30,30,30)", "fontSize": "24px","backgroundColor":"#88ABFB", "marginTop":"20px" }} onClick={showRandomCard}>Random Card</button>
+            <button className="show_random_card_btn" onClick={showRandomCard}>Random Card</button>
         </div>
     )
 }
