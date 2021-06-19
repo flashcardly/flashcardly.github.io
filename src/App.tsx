@@ -17,11 +17,26 @@ function App() {
 }
 
 const AppRoot = () => {
-  const [options] = useOptions();
-  // const theme = options.theme;
-  const theme = "dark";
+  const [options, setOptions] = useOptions();
+  const { theme } = options;
+  const isLightTheme = theme === 'light';
+  const toggleToggle = () => {
+    const newTheme = isLightTheme ? "dark" : "light";
+    setOptions({ ...options, theme: newTheme });
+  }
+  // switch in left pos is off (light)
+  //                       on (dark)
   return (
     <div className={`App ${theme}`}>
+      <div className="switch-container">
+        <label className="switch">
+          <input onChange={toggleToggle} checked={isLightTheme} type="checkbox" />
+          <span className="slider round">
+            <span className="theme-icon--dark">🌕</span>
+            <span className="theme-icon--light">🌞</span>
+          </span>
+        </label>
+      </div>
       <FlashCardPage />
     </div>
   );

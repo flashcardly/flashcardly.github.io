@@ -4,7 +4,10 @@ import {Options} from "./options.types";
 import OptionsContext from "./options.context";
 
 const OptionsProvider = ({ children }: { children: React.ReactChildren | React.ReactChild | null }) => {
-  const [options, setOptions] = useState<Options>({ selectedDeck: "ES-EN", theme: "light" });
+  const browserTheme = window.matchMedia("(prefers-color-scheme: dark)").matches
+    ? "dark" : "light";
+  
+  const [options, setOptions] = useState<Options>({ selectedDeck: "ES-EN", theme: browserTheme });
   const storage = useContext(Storage);
 
   useEffect(() => {
@@ -12,10 +15,14 @@ const OptionsProvider = ({ children }: { children: React.ReactChildren | React.R
       .then((storedOptions: Options) => {
         if (!storedOptions)
           return;
-        if (storedOptions.selectedDeck === options.selectedDeck)
-          return;
 
-        setOptions(storedOptions);
+        const newOptions = Object.entries(options)
+          .reduce((options, [key, defaultValue]) => {
+            const value = storedOptions[key] ?? defaultValue;
+            return { ...options, [key]: value };
+          }, {} as Partial<Options>);
+
+        setOptions(newOptions as Options);
       });
   }, []);
 
