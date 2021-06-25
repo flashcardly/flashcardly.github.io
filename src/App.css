@@ -43,13 +43,52 @@
 
 
 .card {
-  position:relative;
   height: 300px;
-  width: 500px;
   margin:0 auto;
-  color: var(--text-secondary);
+  position:relative;
+  transform-style: preserve-3d; 
+  width: 500px;
+}
+.card__face {
+  font-size:28pt;
+  justify-content:center;
+  align-self:center;
+  height: 300px;
+  width:100%;
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible; 
+  background-color: var(--background-secondary);
+  transition: transform 1s;
+  width:500px;
+  height: 300px;
+}
+.card__face--front {
   background-color: var(--background-secondary);
   border: 2px solid var(--text-primary);
+  color:rgb(30,30,30);
+  width:500px;
+  height: 300px;
+}
+
+.card__face--back {
+  background-color: var(--background-secondary);
+  border: 2px solid var(--text-primary);
+  transform: rotateY( 180deg );
+  color:rgb(30,30,30);
+  position:absolute;
+  top:0;
+  left:0;
+  width:500px;
+  height: 300px;
+}
+
+.scene {
+  perspective: 1000px;
+  margin:0 auto;
+}
+
+.is-flipped {
+  transform: rotateY(180deg);
 }
 
 .show_random_card_btn {
@@ -81,7 +120,7 @@
   height: 34px;
   font-size: 14pt;
   line-height: 1.8;
-  padding-left: 5px;
+  padding-right: 5px;
 }
 
 /* Toggle */
