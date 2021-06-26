@@ -1,0 +1,38 @@
+.scene {
+  perspective: 1000;
+}
+.card {
+  transform-style: preserve-3d;
+  transition: 1s;
+  transform: rotateY(0.0turn);
+
+  position: relative;
+  margin:0 auto;
+  width: 500px;
+  height: 300px;
+}
+.card--is-flipped {
+  transform: rotateY(0.5turn);
+}
+
+.card__face {
+  position: absolute;
+  font-size:28pt;
+  width: 500px;
+  height: 300px;
+  top: 0;
+  left: 0;
+  backface-visibility: hidden;
+  color: var(--text-secondary);
+  background-color: var(--background-secondary);
+  border: 2px solid var(--text-primary);
+
+}
+
+/* .card__face--front {
+
+} */
+
+.card__face--back {
+  transform: rotateY(0.5turn);
+}
