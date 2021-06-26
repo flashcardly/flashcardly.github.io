@@ -30,10 +30,15 @@ export const Flashcard = ({ deck }: FlashcardProps): JSX.Element => {
                 <div className={`card__face card__face--front`}>{card.front}</div>
                 <div className={`card__face card__face--back`}>{card.back}</div>
             </div>
-                <div>
-                    <span style={{textAlign:"left", width:"100%"}}>click card to show reverse</span>
-                </div>
-            <button className="show_random_card_btn" onClick={showRandomCard}>Random Card</button>
+            <div>
+                <span>click card to show reverse</span>
+            </div>
+            <button
+                className="show_random_card_btn"
+                onPointerEnter={() => setIsFront(true)}
+                onClick={showRandomCard}>
+                Random Card
+            </button>
         </div>
     )
 }
