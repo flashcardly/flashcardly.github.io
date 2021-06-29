@@ -16,8 +16,12 @@
 }
 
 .card__face {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   position: absolute;
-  font-size:28pt;
+  font-size:48pt;
   width: 500px;
   height: 300px;
   top: 0;
