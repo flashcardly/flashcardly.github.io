@@ -2,10 +2,10 @@
   perspective: 1000;
 }
 .card {
+  box-sizing: border-box;
   transform-style: preserve-3d;
   transition: 1s;
   transform: rotateY(0.0turn);
-
   position: relative;
   margin:0 auto;
   width: 500px;
@@ -39,4 +39,10 @@
 
 .card__face--back {
   transform: rotateY(0.5turn);
+}
+
+@media only screen and (max-width: 768px){
+  .card, .card__face {
+    width: 95%;
+  }
 }
