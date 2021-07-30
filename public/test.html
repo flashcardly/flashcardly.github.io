@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="position: relative; background-color: aqua; height: 300px; width: 500px;">
+        <div id="ball" style="position: absolute; background-color: blueviolet; height: 60px; width: 60px; border-radius: 50%;"></div>
+    </div>
+</body>
+<script>
+    const ball = document.getElementById("ball");
+    ball.animate([
+            // keyframes
+            { transform: 'translateX(0px)' },
+            { transform: 'translateX(300px)' }
+          ], {
+            // timing options
+            duration: 2000,
+            iterations: 1
+          }).finished
+          .then(() => {
+              ball.style.transform = 'translateX(300px)';
+          })
+</script>
+</html>

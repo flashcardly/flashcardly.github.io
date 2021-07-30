@@ -1,44 +1,18 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
+import { Flashcard2d } from './flashcard2d'
+import { Flashcard3d } from './flashcard3d'
+import {useOptions} from '../options/useOptions.hook'
 import type { Card } from '../../types/types'
-import "./flashcard.css";
-/*
 
-*/
 type FlashcardProps = { deck: Card[] };
 
-export const Flashcard = ({ deck }: FlashcardProps): JSX.Element => {
-    const [index, setIndex] = useState<number>(0);
-    const [isFront, setIsFront] = useState<boolean>(true);
-    const showRandomCard = () => {
-        setIndex(Math.floor(Math.random() * deck.length));
-        setIsFront(true);
+export const Flashcard = ({deck}: FlashcardProps) => {
+    const [options, setOptions] = useOptions();
+    const components = {
+      "2D": Flashcard3d,
+      "3D": Flashcard3d
     };
 
-    useEffect(() => {
-        showRandomCard();
-    }, [deck]);
-
-    const flipcard = () => {
-        setIsFront(!isFront);
-
-    };
-
-    const card = deck[index] ?? { front: "", back: "" };
-    return (
-        <div className="scene">
-            <div onClick={flipcard} className={`card ${isFront ? '' : 'card--is-flipped'}`}>
-                <div className={`card__face card__face--front`}>{card.front}</div>
-                <div className={`card__face card__face--back`}>{card.back}</div>
-            </div>
-            <div>
-                <span>click card to show reverse</span>
-            </div>
-            <button
-                className="show_random_card_btn"
-                onPointerEnter={() => setIsFront(true)}
-                onClick={showRandomCard}>
-                Random Card
-            </button>
-        </div>
-    )
+    const Component = components[options.animation];
+    return <Component deck={deck}/>;
 }

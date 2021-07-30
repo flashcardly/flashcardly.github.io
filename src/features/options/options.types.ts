@@ -3,7 +3,7 @@ export type Scalar = number | string | boolean;
 export type Options = {
   selectedDeck: string;
   theme: "light" | "dark";
-  // animation: "flip" | "none";
+  animation: "2D" | "3D";
   [key: string]: Scalar;
 };
 

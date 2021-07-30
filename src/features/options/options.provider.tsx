@@ -7,7 +7,7 @@ const OptionsProvider = ({ children }: { children: React.ReactChildren | React.R
   const browserTheme = window.matchMedia("(prefers-color-scheme: dark)").matches
     ? "dark" : "light";
   
-  const [options, setOptions] = useState<Options>({ selectedDeck: "ES-EN", theme: browserTheme });//, animation:'flip'
+  const [options, setOptions] = useState<Options>({ selectedDeck: "ES-EN", theme: browserTheme, animation: "3D" });
   const storage = useContext(Storage);
 
   useEffect(() => {
