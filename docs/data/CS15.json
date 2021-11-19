@@ -1,0 +1,38 @@
+[
+    {
+        "front": "algorithm",
+        "back": "a finite sequence of discrete, well-defined steps that will always give a solution to a problem. Alternately, you could say that an algorithm is a step-by-step procedure to solve a problem in a finite amount of time."
+    },
+    {
+        "front": "program",
+        "back": "an algorithm translated into a form that a computer can execute."
+    },
+    {
+        "front": "variable",
+        "back": "a named location in RAM that holds a value which can change as a program executes."
+    },
+    {
+        "front": "data type",
+        "back": "a specification of the domain and operations of a variable of its type."
+    },
+    {
+        "front": "domain",
+        "back": "the domain of a data type is the set of legal values for a variable of that data type"
+    },
+    {
+        "front": "operations",
+        "back": ""
+    },
+    {
+        "front": "",
+        "back": ""
+    },
+    {
+        "front": "",
+        "back": ""
+    },
+    {
+        "front": "",
+        "back": ""
+    }
+]

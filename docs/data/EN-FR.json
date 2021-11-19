@@ -1,0 +1,4754 @@
+[
+  {
+    "front": "and",
+    "back": "et"
+  },
+  {
+    "front": "not",
+    "back": "ne"
+  },
+  {
+    "front": "well",
+    "back": "bien"
+  },
+  {
+    "front": "my",
+    "back": "mon"
+  },
+  {
+    "front": "me",
+    "back": "moi"
+  },
+  {
+    "front": "very",
+    "back": "très"
+  },
+  {
+    "front": "two",
+    "back": "le deux"
+  },
+  {
+    "front": "time",
+    "back": "le temps"
+  },
+  {
+    "front": "need",
+    "back": "besoin"
+  },
+  {
+    "front": "life",
+    "back": "la vie"
+  },
+  {
+    "front": "to go",
+    "back": "aller"
+  },
+  {
+    "front": "father",
+    "back": "le père"
+  },
+  {
+    "front": "man",
+    "back": "un homme"
+  },
+  {
+    "front": "bad",
+    "back": "mal"
+  },
+  {
+    "front": "mother",
+    "back": "la mère"
+  },
+  {
+    "front": "people",
+    "back": "le gens"
+  },
+  {
+    "front": "house",
+    "back": "la maison"
+  },
+  {
+    "front": "day",
+    "back": "le jour"
+  },
+  {
+    "front": "night",
+    "back": "la nuit"
+  },
+  {
+    "front": "problem",
+    "back": "le problème"
+  },
+  {
+    "front": "three",
+    "back": "trois"
+  },
+  {
+    "front": "family",
+    "back": "la famille"
+  },
+  {
+    "front": "work",
+    "back": "le travail"
+  },
+  {
+    "front": "head",
+    "back": "la tête"
+  },
+  {
+    "front": "car",
+    "back": "la voiture"
+  },
+  {
+    "front": "idea",
+    "back": "une idée"
+  },
+  {
+    "front": "share",
+    "back": "le part, la part"
+  },
+  {
+    "front": "friend",
+    "back": "un ami"
+  },
+  {
+    "front": "door",
+    "back": "la porte"
+  },
+  {
+    "front": "new",
+    "back": "nouveau"
+  },
+  {
+    "front": "love",
+    "back": "un amour"
+  },
+  {
+    "front": "blood",
+    "back": "le sang"
+  },
+  {
+    "front": "under",
+    "back": "sous"
+  },
+  {
+    "front": "case",
+    "back": "le cas"
+  },
+  {
+    "front": "question",
+    "back": "la question"
+  },
+  {
+    "front": "only",
+    "back": "seulement"
+  },
+  {
+    "front": "police",
+    "back": "la police"
+  },
+  {
+    "front": "city",
+    "back": "la ville"
+  },
+  {
+    "front": "baby",
+    "back": "le bébé"
+  },
+  {
+    "front": "train",
+    "back": "le train"
+  },
+  {
+    "front": "body",
+    "back": "le corps"
+  },
+  {
+    "front": "first",
+    "back": "le premier"
+  },
+  {
+    "front": "hand",
+    "back": "la main"
+  },
+  {
+    "front": "side",
+    "back": "le côté"
+  },
+  {
+    "front": "old",
+    "back": "le vieux"
+  },
+  {
+    "front": "morning",
+    "back": "le matin"
+  },
+  {
+    "front": "child",
+    "back": "un enfant, une enfant"
+  },
+  {
+    "front": "right",
+    "back": "le droit"
+  },
+  {
+    "front": "water",
+    "back": "une eau"
+  },
+  {
+    "front": "big",
+    "back": "gros"
+  },
+  {
+    "front": "school",
+    "back": "une école"
+  },
+  {
+    "front": "fire",
+    "back": "le feu"
+  },
+  {
+    "front": "doctor",
+    "back": "le docteur"
+  },
+  {
+    "front": "day",
+    "back": "la journée"
+  },
+  {
+    "front": "hard",
+    "back": "le dur"
+  },
+  {
+    "front": "boy",
+    "back": "le garçon"
+  },
+  {
+    "front": "team",
+    "back": "une équipe"
+  },
+  {
+    "front": "war",
+    "back": "la guerre"
+  },
+  {
+    "front": "full",
+    "back": "plein"
+  },
+  {
+    "front": "almost",
+    "back": "presque"
+  },
+  {
+    "front": "view",
+    "back": "la vue"
+  },
+  {
+    "front": "game",
+    "back": "le jeu"
+  },
+  {
+    "front": "country",
+    "back": "le pays"
+  },
+  {
+    "front": "guard",
+    "back": "le garde, la garde"
+  },
+  {
+    "front": "five",
+    "back": "cinq"
+  },
+  {
+    "front": "return",
+    "back": "le retour"
+  },
+  {
+    "front": "weapon",
+    "back": "une arme"
+  },
+  {
+    "front": "film",
+    "back": "le film"
+  },
+  {
+    "front": "four",
+    "back": "quatre"
+  },
+  {
+    "front": "plan",
+    "back": "le plan"
+  },
+  {
+    "front": "bed",
+    "back": "le lit"
+  },
+  {
+    "front": "road",
+    "back": "la route"
+  },
+  {
+    "front": "year",
+    "back": "une année"
+  },
+  {
+    "front": "service",
+    "back": "le service"
+  },
+  {
+    "front": "state",
+    "back": "un état"
+  },
+  {
+    "front": "dog",
+    "back": "le chien"
+  },
+  {
+    "front": "photo",
+    "back": "la photo"
+  },
+  {
+    "front": "heart",
+    "back": "le cœur"
+  },
+  {
+    "front": "hospital",
+    "back": "un hôpital"
+  },
+  {
+    "front": "music",
+    "back": "la musique"
+  },
+  {
+    "front": "second",
+    "back": "la seconde"
+  },
+  {
+    "front": "market",
+    "back": "le marché"
+  },
+  {
+    "front": "six",
+    "back": "le six"
+  },
+  {
+    "front": "arm",
+    "back": "le bras"
+  },
+  {
+    "front": "face",
+    "back": "le visage"
+  },
+  {
+    "front": "book",
+    "back": "le livre, la livre"
+  },
+  {
+    "front": "wood",
+    "back": "le bois"
+  },
+  {
+    "front": "message",
+    "back": "le message"
+  },
+  {
+    "front": "year",
+    "back": "un an"
+  },
+  {
+    "front": "king",
+    "back": "le roi"
+  },
+  {
+    "front": "group",
+    "back": "le groupe"
+  },
+  {
+    "front": "call",
+    "back": "un appel"
+  },
+  {
+    "front": "expensive",
+    "back": "cher"
+  },
+  {
+    "front": "street",
+    "back": "la rue"
+  },
+  {
+    "front": "voice",
+    "back": "la voix"
+  },
+  {
+    "front": "black",
+    "back": "le noir"
+  },
+  {
+    "front": "force",
+    "back": "la force"
+  },
+  {
+    "front": "hotel",
+    "back": "un hôtel"
+  },
+  {
+    "front": "crime",
+    "back": "le crime"
+  },
+  {
+    "front": "back",
+    "back": "le dos"
+  },
+  {
+    "front": "army",
+    "back": "une armée"
+  },
+  {
+    "front": "list",
+    "back": "la liste"
+  },
+  {
+    "front": "peace",
+    "back": "la paix"
+  },
+  {
+    "front": "free",
+    "back": "libre"
+  },
+  {
+    "front": "plane",
+    "back": "un avion"
+  },
+  {
+    "front": "control",
+    "back": "le contrôle"
+  },
+  {
+    "front": "table",
+    "back": "la table"
+  },
+  {
+    "front": "bottom",
+    "back": "le fond"
+  },
+  {
+    "front": "line",
+    "back": "la ligne"
+  },
+  {
+    "front": "left",
+    "back": "le gauche, la gauche"
+  },
+  {
+    "front": "clear",
+    "back": "le clair"
+  },
+  {
+    "front": "system",
+    "back": "le système"
+  },
+  {
+    "front": "watch",
+    "back": "la montre"
+  },
+  {
+    "front": "foot",
+    "back": "le pied"
+  },
+  {
+    "front": "light",
+    "back": "la lumière"
+  },
+  {
+    "front": "corner",
+    "back": "le coin"
+  },
+  {
+    "front": "half",
+    "back": "la moitié"
+  },
+  {
+    "front": "club",
+    "back": "le club"
+  },
+  {
+    "front": "camp",
+    "back": "le camp"
+  },
+  {
+    "front": "sun",
+    "back": "le soleil"
+  },
+  {
+    "front": "letter",
+    "back": "la lettre"
+  },
+  {
+    "front": "arrival",
+    "back": "une arrivée"
+  },
+  {
+    "front": "bar",
+    "back": "le bar"
+  },
+  {
+    "front": "law",
+    "back": "la loi"
+  },
+  {
+    "front": "cold",
+    "back": "le froid"
+  },
+  {
+    "front": "offer",
+    "back": "une offre"
+  },
+  {
+    "front": "standing",
+    "back": "debout"
+  },
+  {
+    "front": "box",
+    "back": "la boîte"
+  },
+  {
+    "front": "sky",
+    "back": "le ciel"
+  },
+  {
+    "front": "danger",
+    "back": "le danger"
+  },
+  {
+    "front": "TV",
+    "back": "la télé"
+  },
+  {
+    "front": "judge",
+    "back": "le juge, la juge"
+  },
+  {
+    "front": "right",
+    "back": "la droite"
+  },
+  {
+    "front": "sad",
+    "back": "triste"
+  },
+  {
+    "front": "lady",
+    "back": "la dame"
+  },
+  {
+    "front": "song",
+    "back": "la chanson"
+  },
+  {
+    "front": "health",
+    "back": "la santé"
+  },
+  {
+    "front": "exchange",
+    "back": "le change"
+  },
+  {
+    "front": "center",
+    "back": "le centre"
+  },
+  {
+    "front": "company",
+    "back": "la compagnie"
+  },
+  {
+    "front": "key",
+    "back": "la clé"
+  },
+  {
+    "front": "devil",
+    "back": "le diable"
+  },
+  {
+    "front": "sign",
+    "back": "le signe"
+  },
+  {
+    "front": "mouth",
+    "back": "la bouche"
+  },
+  {
+    "front": "horse",
+    "back": "le cheval"
+  },
+  {
+    "front": "care",
+    "back": "le soin"
+  },
+  {
+    "front": "middle",
+    "back": "le milieu"
+  },
+  {
+    "front": "next",
+    "back": "le prochain"
+  },
+  {
+    "front": "brain",
+    "back": "le cerveau"
+  },
+  {
+    "front": "silence",
+    "back": "le silence"
+  },
+  {
+    "front": "hole",
+    "back": "le trou"
+  },
+  {
+    "front": "meeting",
+    "back": "la réunion"
+  },
+  {
+    "front": "address",
+    "back": "une adresse"
+  },
+  {
+    "front": "skin",
+    "back": "la peau"
+  },
+  {
+    "front": "dress",
+    "back": "la robe"
+  },
+  {
+    "front": "base",
+    "back": "la base"
+  },
+  {
+    "front": "wine",
+    "back": "le vin"
+  },
+  {
+    "front": "sea",
+    "back": "la mer"
+  },
+  {
+    "front": "wrong",
+    "back": "le tort"
+  },
+  {
+    "front": "open",
+    "back": "ouvert"
+  },
+  {
+    "front": "nose",
+    "back": "le nez"
+  },
+  {
+    "front": "entrance",
+    "back": "une entrée"
+  },
+  {
+    "front": "departure",
+    "back": "le départ"
+  },
+  {
+    "front": "moon",
+    "back": "la lune"
+  },
+  {
+    "front": "people",
+    "back": "le peuple"
+  },
+  {
+    "front": "radio",
+    "back": "le radio, la radio"
+  },
+  {
+    "front": "bank",
+    "back": "la banque"
+  },
+  {
+    "front": "future",
+    "back": "un avenir"
+  },
+  {
+    "front": "tea",
+    "back": "le thé"
+  },
+  {
+    "front": "eye",
+    "back": "le œil"
+  },
+  {
+    "front": "human",
+    "back": "un humain"
+  },
+  {
+    "front": "English",
+    "back": "un anglais"
+  },
+  {
+    "front": "food",
+    "back": "la nourriture"
+  },
+  {
+    "front": "north",
+    "back": "le nord"
+  },
+  {
+    "front": "second",
+    "back": "le deuxième, la deuxième"
+  },
+  {
+    "front": "director",
+    "back": "le directeur"
+  },
+  {
+    "front": "wall",
+    "back": "le mur"
+  },
+  {
+    "front": "empty",
+    "back": "le vide"
+  },
+  {
+    "front": "south",
+    "back": "le sud"
+  },
+  {
+    "front": "church",
+    "back": "une église"
+  },
+  {
+    "front": "bomb",
+    "back": "la bombe"
+  },
+  {
+    "front": "code",
+    "back": "le code"
+  },
+  {
+    "front": "level",
+    "back": "le niveau"
+  },
+  {
+    "front": "window",
+    "back": "la fenêtre"
+  },
+  {
+    "front": "store",
+    "back": "le magasin"
+  },
+  {
+    "front": "video",
+    "back": "la vidéo"
+  },
+  {
+    "front": "queen",
+    "back": "la reine"
+  },
+  {
+    "front": "mine",
+    "back": "mien"
+  },
+  {
+    "front": "press",
+    "back": "la presse"
+  },
+  {
+    "front": "pain",
+    "back": "la douleur"
+  },
+  {
+    "front": "truck",
+    "back": "le camion"
+  },
+  {
+    "front": "project",
+    "back": "le projet"
+  },
+  {
+    "front": "meeting",
+    "back": "la rencontre"
+  },
+  {
+    "front": "machine",
+    "back": "la machine"
+  },
+  {
+    "front": "reality",
+    "back": "la réalité"
+  },
+  {
+    "front": "planet",
+    "back": "la planète"
+  },
+  {
+    "front": "pressure",
+    "back": "la pression"
+  },
+  {
+    "front": "Miss",
+    "back": "la mademoiselle"
+  },
+  {
+    "front": "nature",
+    "back": "la nature"
+  },
+  {
+    "front": "monster",
+    "back": "le monstre"
+  },
+  {
+    "front": "rich",
+    "back": "riche"
+  },
+  {
+    "front": "stone",
+    "back": "la pierre"
+  },
+  {
+    "front": "test",
+    "back": "le test"
+  },
+  {
+    "front": "bus",
+    "back": "le bus, la bus"
+  },
+  {
+    "front": "enemy",
+    "back": "un ennemi"
+  },
+  {
+    "front": "knife",
+    "back": "le couteau"
+  },
+  {
+    "front": "wind",
+    "back": "le vent"
+  },
+  {
+    "front": "future",
+    "back": "le futur"
+  },
+  {
+    "front": "meal",
+    "back": "le repas"
+  },
+  {
+    "front": "space",
+    "back": "un espace, une espace"
+  },
+  {
+    "front": "paper",
+    "back": "le papier"
+  },
+  {
+    "front": "conversation",
+    "back": "la conversation"
+  },
+  {
+    "front": "contract",
+    "back": "le contrat"
+  },
+  {
+    "front": "beauty",
+    "back": "la beauté"
+  },
+  {
+    "front": "double",
+    "back": "le double"
+  },
+  {
+    "front": "computer",
+    "back": "un ordinateur"
+  },
+  {
+    "front": "memory",
+    "back": "le mémoire, la mémoire"
+  },
+  {
+    "front": "energy",
+    "back": "une énergie"
+  },
+  {
+    "front": "taxi",
+    "back": "le taxi"
+  },
+  {
+    "front": "couple",
+    "back": "le couple, la couple"
+  },
+  {
+    "front": "action",
+    "back": "une action"
+  },
+  {
+    "front": "target",
+    "back": "la cible"
+  },
+  {
+    "front": "restaurant",
+    "back": "le restaurant"
+  },
+  {
+    "front": "camera",
+    "back": "la caméra"
+  },
+  {
+    "front": "color",
+    "back": "la couleur"
+  },
+  {
+    "front": "island",
+    "back": "la île"
+  },
+  {
+    "front": "soldier",
+    "back": "le soldat"
+  },
+  {
+    "front": "fish",
+    "back": "le poisson"
+  },
+  {
+    "front": "American",
+    "back": "un américain"
+  },
+  {
+    "front": "mark",
+    "back": "le mark"
+  },
+  {
+    "front": "milk",
+    "back": "le lait"
+  },
+  {
+    "front": "bridge",
+    "back": "le pont"
+  },
+  {
+    "front": "stop",
+    "back": "un arrêt"
+  },
+  {
+    "front": "bottle",
+    "back": "la bouteille"
+  },
+  {
+    "front": "French",
+    "back": "le français"
+  },
+  {
+    "front": "art",
+    "back": "un art"
+  },
+  {
+    "front": "date",
+    "back": "la date"
+  },
+  {
+    "front": "bone",
+    "back": "un os"
+  },
+  {
+    "front": "cake",
+    "back": "le gâteau"
+  },
+  {
+    "front": "leg",
+    "back": "la jambe"
+  },
+  {
+    "front": "signal",
+    "back": "le signal"
+  },
+  {
+    "front": "cinema",
+    "back": "le cinéma"
+  },
+  {
+    "front": "angel",
+    "back": "un ange"
+  },
+  {
+    "front": "star",
+    "back": "la star"
+  },
+  {
+    "front": "hat",
+    "back": "le chapeau"
+  },
+  {
+    "front": "product",
+    "back": "le produit"
+  },
+  {
+    "front": "season",
+    "back": "la saison"
+  },
+  {
+    "front": "success",
+    "back": "le succès"
+  },
+  {
+    "front": "bread",
+    "back": "le pain"
+  },
+  {
+    "front": "roof",
+    "back": "le toit"
+  },
+  {
+    "front": "tree",
+    "back": "un arbre"
+  },
+  {
+    "front": "exchange",
+    "back": "un échange"
+  },
+  {
+    "front": "park",
+    "back": "le parc"
+  },
+  {
+    "front": "beach",
+    "back": "la plage"
+  },
+  {
+    "front": "west",
+    "back": "un ouest"
+  },
+  {
+    "front": "member",
+    "back": "le membre"
+  },
+  {
+    "front": "real",
+    "back": "le réel"
+  },
+  {
+    "front": "weight",
+    "back": "le poids"
+  },
+  {
+    "front": "pocket",
+    "back": "la poche"
+  },
+  {
+    "front": "speed",
+    "back": "la vitesse"
+  },
+  {
+    "front": "meat",
+    "back": "la viande"
+  },
+  {
+    "front": "chicken",
+    "back": "le poulet"
+  },
+  {
+    "front": "page",
+    "back": "le page, la page"
+  },
+  {
+    "front": "finger",
+    "back": "le doigt"
+  },
+  {
+    "front": "change",
+    "back": "le changement"
+  },
+  {
+    "front": "animal",
+    "back": "un animal"
+  },
+  {
+    "front": "building",
+    "back": "le bâtiment"
+  },
+  {
+    "front": "cancer",
+    "back": "le cancer"
+  },
+  {
+    "front": "direct",
+    "back": "direct"
+  },
+  {
+    "front": "gas",
+    "back": "le gaz"
+  },
+  {
+    "front": "information",
+    "back": "une information"
+  },
+  {
+    "front": "style",
+    "back": "le style"
+  },
+  {
+    "front": "airport",
+    "back": "un aéroport"
+  },
+  {
+    "front": "Chinese",
+    "back": "le chinois"
+  },
+  {
+    "front": "building",
+    "back": "un immeuble"
+  },
+  {
+    "front": "blind",
+    "back": "un aveugle, une aveugle"
+  },
+  {
+    "front": "military",
+    "back": "le militaire"
+  },
+  {
+    "front": "protection",
+    "back": "la protection"
+  },
+  {
+    "front": "bird",
+    "back": "un oiseau"
+  },
+  {
+    "front": "famous",
+    "back": "célèbre"
+  },
+  {
+    "front": "sport",
+    "back": "le sport"
+  },
+  {
+    "front": "east",
+    "back": "un est"
+  },
+  {
+    "front": "common",
+    "back": "commun"
+  },
+  {
+    "front": "rain",
+    "back": "la pluie"
+  },
+  {
+    "front": "tent",
+    "back": "la tente"
+  },
+  {
+    "front": "chocolate",
+    "back": "le chocolat"
+  },
+  {
+    "front": "mouse",
+    "back": "la souris"
+  },
+  {
+    "front": "snow",
+    "back": "la neige"
+  },
+  {
+    "front": "theater",
+    "back": "le théâtre"
+  },
+  {
+    "front": "chair",
+    "back": "la chaise"
+  },
+  {
+    "front": "translation",
+    "back": "la traduction"
+  },
+  {
+    "front": "mountain",
+    "back": "la montagne"
+  },
+  {
+    "front": "throat",
+    "back": "la gorge"
+  },
+  {
+    "front": "second",
+    "back": "le second"
+  },
+  {
+    "front": "cell",
+    "back": "la cellule"
+  },
+  {
+    "front": "divorce",
+    "back": "le divorce"
+  },
+  {
+    "front": "bear",
+    "back": "un ours"
+  },
+  {
+    "front": "exam",
+    "back": "un examen"
+  },
+  {
+    "front": "forest",
+    "back": "la forêt"
+  },
+  {
+    "front": "distance",
+    "back": "la distance"
+  },
+  {
+    "front": "model",
+    "back": "le modèle"
+  },
+  {
+    "front": "power",
+    "back": "la puissance"
+  },
+  {
+    "front": "credit",
+    "back": "le crédit"
+  },
+  {
+    "front": "concert",
+    "back": "le concert"
+  },
+  {
+    "front": "noon",
+    "back": "le midi"
+  },
+  {
+    "front": "explosion",
+    "back": "une explosion"
+  },
+  {
+    "front": "announcement",
+    "back": "une annonce"
+  },
+  {
+    "front": "ear",
+    "back": "une oreille"
+  },
+  {
+    "front": "cow",
+    "back": "la vache"
+  },
+  {
+    "front": "station",
+    "back": "la station"
+  },
+  {
+    "front": "sale",
+    "back": "la vente"
+  },
+  {
+    "front": "measure",
+    "back": "la mesure"
+  },
+  {
+    "front": "garage",
+    "back": "le garage"
+  },
+  {
+    "front": "castle",
+    "back": "le château"
+  },
+  {
+    "front": "motor",
+    "back": "le moteur"
+  },
+  {
+    "front": "iron",
+    "back": "le fer"
+  },
+  {
+    "front": "artist",
+    "back": "un artiste, une artiste"
+  },
+  {
+    "front": "dark",
+    "back": "sombre"
+  },
+  {
+    "front": "check",
+    "back": "le chèque"
+  },
+  {
+    "front": "cheese",
+    "back": "le fromage"
+  },
+  {
+    "front": "ticket",
+    "back": "le billet"
+  },
+  {
+    "front": "skull",
+    "back": "le crâne"
+  },
+  {
+    "front": "half",
+    "back": "le demi"
+  },
+  {
+    "front": "science",
+    "back": "la science"
+  },
+  {
+    "front": "sugar",
+    "back": "le sucre"
+  },
+  {
+    "front": "bell",
+    "back": "la cloche"
+  },
+  {
+    "front": "fall",
+    "back": "la chute"
+  },
+  {
+    "front": "player",
+    "back": "le joueur"
+  },
+  {
+    "front": "soup",
+    "back": "la soupe"
+  },
+  {
+    "front": "cream",
+    "back": "le crème, la crème"
+  },
+  {
+    "front": "adventure",
+    "back": "une aventure"
+  },
+  {
+    "front": "winter",
+    "back": "un hiver"
+  },
+  {
+    "front": "network",
+    "back": "le réseau"
+  },
+  {
+    "front": "shop",
+    "back": "la boutique"
+  },
+  {
+    "front": "empire",
+    "back": "un empire"
+  },
+  {
+    "front": "ball",
+    "back": "le ballon"
+  },
+  {
+    "front": "task",
+    "back": "la tâche"
+  },
+  {
+    "front": "community",
+    "back": "la communauté"
+  },
+  {
+    "front": "heavy",
+    "back": "lourd"
+  },
+  {
+    "front": "wolf",
+    "back": "le loup"
+  },
+  {
+    "front": "ship",
+    "back": "le navire"
+  },
+  {
+    "front": "flower",
+    "back": "la fleur"
+  },
+  {
+    "front": "professional",
+    "back": "le professionnel"
+  },
+  {
+    "front": "monkey",
+    "back": "le singe"
+  },
+  {
+    "front": "screen",
+    "back": "un écran"
+  },
+  {
+    "front": "assistant",
+    "back": "assistant"
+  },
+  {
+    "front": "limit",
+    "back": "la limite"
+  },
+  {
+    "front": "block",
+    "back": "le bloc"
+  },
+  {
+    "front": "mask",
+    "back": "le masque"
+  },
+  {
+    "front": "temple",
+    "back": "le temple"
+  },
+  {
+    "front": "alarm",
+    "back": "une alarme"
+  },
+  {
+    "front": "natural",
+    "back": "naturel"
+  },
+  {
+    "front": "piano",
+    "back": "le piano"
+  },
+  {
+    "front": "passion",
+    "back": "la passion"
+  },
+  {
+    "front": "star",
+    "back": "une étoile"
+  },
+  {
+    "front": "steering wheel",
+    "back": "le volant"
+  },
+  {
+    "front": "library",
+    "back": "la bibliothèque"
+  },
+  {
+    "front": "smoke",
+    "back": "la fumée"
+  },
+  {
+    "front": "section",
+    "back": "la section"
+  },
+  {
+    "front": "cage",
+    "back": "la cage"
+  },
+  {
+    "front": "mirror",
+    "back": "le miroir"
+  },
+  {
+    "front": "condition",
+    "back": "la condition"
+  },
+  {
+    "front": "equal",
+    "back": "égal"
+  },
+  {
+    "front": "suitcase",
+    "back": "la valise"
+  },
+  {
+    "front": "technology",
+    "back": "la technologie"
+  },
+  {
+    "front": "pig",
+    "back": "le cochon"
+  },
+  {
+    "front": "spring",
+    "back": "le printemps"
+  },
+  {
+    "front": "correct",
+    "back": "correct"
+  },
+  {
+    "front": "ball",
+    "back": "le boule, la boule"
+  },
+  {
+    "front": "rat",
+    "back": "le rat"
+  },
+  {
+    "front": "medical",
+    "back": "médical"
+  },
+  {
+    "front": "fever",
+    "back": "la fièvre"
+  },
+  {
+    "front": "museum",
+    "back": "le musée"
+  },
+  {
+    "front": "shoulder",
+    "back": "une épaule"
+  },
+  {
+    "front": "sand",
+    "back": "le sable"
+  },
+  {
+    "front": "education",
+    "back": "une éducation"
+  },
+  {
+    "front": "butter",
+    "back": "le beurre"
+  },
+  {
+    "front": "orange",
+    "back": "un orange, une orange"
+  },
+  {
+    "front": "cross",
+    "back": "la croix"
+  },
+  {
+    "front": "wallet",
+    "back": "le portefeuille"
+  },
+  {
+    "front": "public",
+    "back": "publique"
+  },
+  {
+    "front": "rent",
+    "back": "le loyer"
+  },
+  {
+    "front": "invitation",
+    "back": "une invitation"
+  },
+  {
+    "front": "cassette",
+    "back": "la cassette"
+  },
+  {
+    "front": "reception",
+    "back": "la réception"
+  },
+  {
+    "front": "employee",
+    "back": "un employé"
+  },
+  {
+    "front": "electric",
+    "back": "électrique"
+  },
+  {
+    "front": "powder",
+    "back": "la poudre"
+  },
+  {
+    "front": "division",
+    "back": "la division"
+  },
+  {
+    "front": "negative",
+    "back": "négatif"
+  },
+  {
+    "front": "language",
+    "back": "le langage"
+  },
+  {
+    "front": "temperature",
+    "back": "la température"
+  },
+  {
+    "front": "morning",
+    "back": "la matinée"
+  },
+  {
+    "front": "guide",
+    "back": "le guide, la guide"
+  },
+  {
+    "front": "tunnel",
+    "back": "le tunnel"
+  },
+  {
+    "front": "liver",
+    "back": "le foie"
+  },
+  {
+    "front": "height",
+    "back": "une hauteur"
+  },
+  {
+    "front": "culture",
+    "back": "la culture"
+  },
+  {
+    "front": "stress",
+    "back": "le stress"
+  },
+  {
+    "front": "album",
+    "back": "un album"
+  },
+  {
+    "front": "electricity",
+    "back": "une électricité"
+  },
+  {
+    "front": "study",
+    "back": "une étude"
+  },
+  {
+    "front": "city",
+    "back": "la cité"
+  },
+  {
+    "front": "dollar",
+    "back": "le dollar"
+  },
+  {
+    "front": "laboratory",
+    "back": "le laboratoire"
+  },
+  {
+    "front": "religion",
+    "back": "la religion"
+  },
+  {
+    "front": "round",
+    "back": "le rond"
+  },
+  {
+    "front": "manual",
+    "back": "le manuel"
+  },
+  {
+    "front": "character",
+    "back": "le caractère"
+  },
+  {
+    "front": "nuclear",
+    "back": "nucléaire"
+  },
+  {
+    "front": "official",
+    "back": "officiel"
+  },
+  {
+    "front": "disaster",
+    "back": "le désastre"
+  },
+  {
+    "front": "budget",
+    "back": "le budget"
+  },
+  {
+    "front": "flag",
+    "back": "le drapeau"
+  },
+  {
+    "front": "Indian",
+    "back": "un indien"
+  },
+  {
+    "front": "process",
+    "back": "le processus"
+  },
+  {
+    "front": "intelligence",
+    "back": "une intelligence"
+  },
+  {
+    "front": "passport",
+    "back": "le passeport"
+  },
+  {
+    "front": "strategy",
+    "back": "la stratégie"
+  },
+  {
+    "front": "apple",
+    "back": "la pomme"
+  },
+  {
+    "front": "torture",
+    "back": "la torture"
+  },
+  {
+    "front": "sample",
+    "back": "un échantillon"
+  },
+  {
+    "front": "tooth",
+    "back": "le dent, la dent"
+  },
+  {
+    "front": "equipment",
+    "back": "un équipement"
+  },
+  {
+    "front": "salt",
+    "back": "le sel"
+  },
+  {
+    "front": "modern",
+    "back": "moderne"
+  },
+  {
+    "front": "positive",
+    "back": "le positif"
+  },
+  {
+    "front": "media",
+    "back": "médias"
+  },
+  {
+    "front": "valley",
+    "back": "la vallée"
+  },
+  {
+    "front": "fruit",
+    "back": "le fruit"
+  },
+  {
+    "front": "plant",
+    "back": "la plante"
+  },
+  {
+    "front": "essential",
+    "back": "un essentiel"
+  },
+  {
+    "front": "transportation",
+    "back": "le transport"
+  },
+  {
+    "front": "statue",
+    "back": "la statue"
+  },
+  {
+    "front": "hill",
+    "back": "la colline"
+  },
+  {
+    "front": "symbol",
+    "back": "le symbole"
+  },
+  {
+    "front": "warning",
+    "back": "un avertissement"
+  },
+  {
+    "front": "director",
+    "back": "le réalisateur"
+  },
+  {
+    "front": "medal",
+    "back": "la médaille"
+  },
+  {
+    "front": "helmet",
+    "back": "le casque"
+  },
+  {
+    "front": "text",
+    "back": "le texte"
+  },
+  {
+    "front": "car",
+    "back": "un auto, une auto"
+  },
+  {
+    "front": "envelope",
+    "back": "une enveloppe"
+  },
+  {
+    "front": "record",
+    "back": "le record"
+  },
+  {
+    "front": "basket",
+    "back": "le panier"
+  },
+  {
+    "front": "historical",
+    "back": "un historique"
+  },
+  {
+    "front": "candidate",
+    "back": "le candidat"
+  },
+  {
+    "front": "tube",
+    "back": "le tube"
+  },
+  {
+    "front": "engineer",
+    "back": "un ingénieur, une ingénieur"
+  },
+  {
+    "front": "knee",
+    "back": "le genou"
+  },
+  {
+    "front": "fragile",
+    "back": "fragile"
+  },
+  {
+    "front": "pregnancy",
+    "back": "la grossesse"
+  },
+  {
+    "front": "royal",
+    "back": "royal"
+  },
+  {
+    "front": "trouble",
+    "back": "le trouble"
+  },
+  {
+    "front": "song",
+    "back": "le chant"
+  },
+  {
+    "front": "toy",
+    "back": "le jouet"
+  },
+  {
+    "front": "tennis",
+    "back": "le tennis"
+  },
+  {
+    "front": "destination",
+    "back": "la destination"
+  },
+  {
+    "front": "punishment",
+    "back": "la punition"
+  },
+  {
+    "front": "Swiss",
+    "back": "le suisse"
+  },
+  {
+    "front": "diamond",
+    "back": "le diamant"
+  },
+  {
+    "front": "key",
+    "back": "la clef"
+  },
+  {
+    "front": "file",
+    "back": "le fichier"
+  },
+  {
+    "front": "verdict",
+    "back": "le verdict"
+  },
+  {
+    "front": "antenna",
+    "back": "une antenne"
+  },
+  {
+    "front": "document",
+    "back": "le document"
+  },
+  {
+    "front": "creation",
+    "back": "la création"
+  },
+  {
+    "front": "circuit",
+    "back": "le circuit"
+  },
+  {
+    "front": "famous",
+    "back": "fameux"
+  },
+  {
+    "front": "structure",
+    "back": "la structure"
+  },
+  {
+    "front": "international",
+    "back": "international"
+  },
+  {
+    "front": "development",
+    "back": "le développement"
+  },
+  {
+    "front": "slow",
+    "back": "lent"
+  },
+  {
+    "front": "cloud",
+    "back": "le nuage"
+  },
+  {
+    "front": "social",
+    "back": "le social"
+  },
+  {
+    "front": "specialty",
+    "back": "la spécialité"
+  },
+  {
+    "front": "presentation",
+    "back": "la présentation"
+  },
+  {
+    "front": "arrow",
+    "back": "la flèche"
+  },
+  {
+    "front": "pump",
+    "back": "la pompe"
+  },
+  {
+    "front": "solar",
+    "back": "solaire"
+  },
+  {
+    "front": "old",
+    "back": "âgé"
+  },
+  {
+    "front": "automatic",
+    "back": "automatique"
+  },
+  {
+    "front": "egg",
+    "back": "le œuf"
+  },
+  {
+    "front": "lightning",
+    "back": "le foudre, la foudre"
+  },
+  {
+    "front": "instrument",
+    "back": "un instrument"
+  },
+  {
+    "front": "certificate",
+    "back": "le certificat"
+  },
+  {
+    "front": "fuel",
+    "back": "le carburant"
+  },
+  {
+    "front": "winner",
+    "back": "le vainqueur, la vainqueur"
+  },
+  {
+    "front": "electronic",
+    "back": "électronique"
+  },
+  {
+    "front": "food",
+    "back": "alimentaire"
+  },
+  {
+    "front": "favorite",
+    "back": "le favori"
+  },
+  {
+    "front": "prisoner",
+    "back": "le détenu"
+  },
+  {
+    "front": "score",
+    "back": "le score"
+  },
+  {
+    "front": "tank",
+    "back": "le char, la char"
+  },
+  {
+    "front": "chemical",
+    "back": "chimique"
+  },
+  {
+    "front": "performance",
+    "back": "la performance"
+  },
+  {
+    "front": "tire",
+    "back": "le pneu"
+  },
+  {
+    "front": "payment",
+    "back": "le paiement"
+  },
+  {
+    "front": "farmer",
+    "back": "le fermier"
+  },
+  {
+    "front": "photography",
+    "back": "la photographie"
+  },
+  {
+    "front": "calendar",
+    "back": "le calendrier"
+  },
+  {
+    "front": "feather",
+    "back": "le plume, la plume"
+  },
+  {
+    "front": "chemistry",
+    "back": "la chimie"
+  },
+  {
+    "front": "family",
+    "back": "familial"
+  },
+  {
+    "front": "regiment",
+    "back": "le régiment"
+  },
+  {
+    "front": "colony",
+    "back": "la colonie"
+  },
+  {
+    "front": "volume",
+    "back": "le volume"
+  },
+  {
+    "front": "Christian",
+    "back": "le chrétien"
+  },
+  {
+    "front": "management",
+    "back": "la gestion"
+  },
+  {
+    "front": "architect",
+    "back": "un architecte, une architecte"
+  },
+  {
+    "front": "soft",
+    "back": "le mou"
+  },
+  {
+    "front": "meter",
+    "back": "le mètre"
+  },
+  {
+    "front": "root",
+    "back": "la racine"
+  },
+  {
+    "front": "tool",
+    "back": "un outil"
+  },
+  {
+    "front": "conception",
+    "back": "la conception"
+  },
+  {
+    "front": "fiction",
+    "back": "la fiction"
+  },
+  {
+    "front": "sheep",
+    "back": "le mouton"
+  },
+  {
+    "front": "growth",
+    "back": "la croissance"
+  },
+  {
+    "front": "triumph",
+    "back": "le triomphe"
+  },
+  {
+    "front": "information",
+    "back": "le renseignement"
+  },
+  {
+    "front": "essential",
+    "back": "indispensable"
+  },
+  {
+    "front": "worker",
+    "back": "un ouvrier"
+  },
+  {
+    "front": "Asian",
+    "back": "asiatique"
+  },
+  {
+    "front": "globe",
+    "back": "le globe"
+  },
+  {
+    "front": "hair",
+    "back": "le cheveu"
+  },
+  {
+    "front": "wave",
+    "back": "une onde"
+  },
+  {
+    "front": "explosive",
+    "back": "un explosif"
+  },
+  {
+    "front": "bubble",
+    "back": "la bulle"
+  },
+  {
+    "front": "specific",
+    "back": "spécifique"
+  },
+  {
+    "front": "nurse",
+    "back": "un infirmier"
+  },
+  {
+    "front": "musical",
+    "back": "musical"
+  },
+  {
+    "front": "support",
+    "back": "un appui"
+  },
+  {
+    "front": "notebook",
+    "back": "le cahier"
+  },
+  {
+    "front": "pole",
+    "back": "le pôle"
+  },
+  {
+    "front": "selection",
+    "back": "la sélection"
+  },
+  {
+    "front": "finance",
+    "back": "la finance"
+  },
+  {
+    "front": "worker",
+    "back": "le travailleur"
+  },
+  {
+    "front": "neutral",
+    "back": "neutre"
+  },
+  {
+    "front": "collaboration",
+    "back": "la collaboration"
+  },
+  {
+    "front": "regular",
+    "back": "régulier"
+  },
+  {
+    "front": "aviation",
+    "back": "une aviation"
+  },
+  {
+    "front": "bus",
+    "back": "un autobus"
+  },
+  {
+    "front": "global",
+    "back": "global"
+  },
+  {
+    "front": "warm",
+    "back": "chaleureux"
+  },
+  {
+    "front": "navigation",
+    "back": "la navigation"
+  },
+  {
+    "front": "golden",
+    "back": "doré"
+  },
+  {
+    "front": "architecture",
+    "back": "une architecture"
+  },
+  {
+    "front": "teacher",
+    "back": "un enseignant"
+  },
+  {
+    "front": "twin",
+    "back": "le jumeau"
+  },
+  {
+    "front": "bar",
+    "back": "le barreau"
+  },
+  {
+    "front": "monument",
+    "back": "le monument"
+  },
+  {
+    "front": "crossing",
+    "back": "la traversée"
+  },
+  {
+    "front": "agriculture",
+    "back": "une agriculture"
+  },
+  {
+    "front": "hierarchy",
+    "back": "une hiérarchie"
+  },
+  {
+    "front": "philosopher",
+    "back": "le philosophe, la philosophe"
+  },
+  {
+    "front": "organic",
+    "back": "organique"
+  },
+  {
+    "front": "artificial",
+    "back": "artificiel"
+  },
+  {
+    "front": "vegetable",
+    "back": "le légume, la légume"
+  },
+  {
+    "front": "crime",
+    "back": "la criminalité"
+  },
+  {
+    "front": "block",
+    "back": "le blocage"
+  },
+  {
+    "front": "pillar",
+    "back": "le pilier"
+  },
+  {
+    "front": "work",
+    "back": "un ouvrage"
+  },
+  {
+    "front": "school teacher",
+    "back": "un instituteur"
+  },
+  {
+    "front": "primitive",
+    "back": "primitif"
+  },
+  {
+    "front": "pollution",
+    "back": "la pollution"
+  },
+  {
+    "front": "programming",
+    "back": "la programmation"
+  },
+  {
+    "front": "media",
+    "back": "médiatique"
+  },
+  {
+    "front": "interface",
+    "back": "une interface"
+  },
+  {
+    "front": "Egyptian",
+    "back": "un égyptien"
+  },
+  {
+    "front": "transit",
+    "back": "transit"
+  },
+  {
+    "front": "building",
+    "back": "un édifice"
+  },
+  {
+    "front": "payment",
+    "back": "le versement"
+  },
+  {
+    "front": "user",
+    "back": "un utilisateur"
+  },
+  {
+    "front": "radioactive",
+    "back": "radioactif"
+  },
+  {
+    "front": "afternoon",
+    "back": "après-midi"
+  },
+  {
+    "front": "shelter",
+    "back": "un abri"
+  },
+  {
+    "front": "euro",
+    "back": "un euro"
+  },
+  {
+    "front": "appointment",
+    "back": "rendez-vous"
+  },
+  {
+    "front": "multiple",
+    "back": "le multiple"
+  },
+  {
+    "front": "shutter",
+    "back": "le volet"
+  },
+  {
+    "front": "farmer",
+    "back": "un agriculteur"
+  },
+  {
+    "front": "Oriental",
+    "back": "oriental"
+  },
+  {
+    "front": "variable",
+    "back": "la variable"
+  },
+  {
+    "front": "increase",
+    "back": "un accroissement"
+  },
+  {
+    "front": "food",
+    "back": "un aliment"
+  },
+  {
+    "front": "speaker",
+    "back": "un interlocuteur"
+  },
+  {
+    "front": "user",
+    "back": "un usager"
+  },
+  {
+    "front": "material",
+    "back": "le matériau"
+  },
+  {
+    "front": "grandfather",
+    "back": "grand-père"
+  },
+  {
+    "front": "grandmother",
+    "back": "grand-mère"
+  },
+  {
+    "front": "content",
+    "back": "le teneur, la teneur"
+  },
+  {
+    "front": "ecological",
+    "back": "écologique"
+  },
+  {
+    "front": "mining",
+    "back": "minier"
+  },
+  {
+    "front": "safe",
+    "back": "sécuritaire"
+  },
+  {
+    "front": "and",
+    "back": "et"
+  },
+  {
+    "front": "not",
+    "back": "ne"
+  },
+  {
+    "front": "well",
+    "back": "bien"
+  },
+  {
+    "front": "my",
+    "back": "mon"
+  },
+  {
+    "front": "me",
+    "back": "moi"
+  },
+  {
+    "front": "very",
+    "back": "très"
+  },
+  {
+    "front": "two",
+    "back": "le deux"
+  },
+  {
+    "front": "time",
+    "back": "le temps"
+  },
+  {
+    "front": "need",
+    "back": "besoin"
+  },
+  {
+    "front": "life",
+    "back": "la vie"
+  },
+  {
+    "front": "to go",
+    "back": "aller"
+  },
+  {
+    "front": "father",
+    "back": "le père"
+  },
+  {
+    "front": "man",
+    "back": "un homme"
+  },
+  {
+    "front": "bad",
+    "back": "mal"
+  },
+  {
+    "front": "mother",
+    "back": "la mère"
+  },
+  {
+    "front": "people",
+    "back": "le gens"
+  },
+  {
+    "front": "house",
+    "back": "la maison"
+  },
+  {
+    "front": "day",
+    "back": "le jour"
+  },
+  {
+    "front": "night",
+    "back": "la nuit"
+  },
+  {
+    "front": "problem",
+    "back": "le problème"
+  },
+  {
+    "front": "three",
+    "back": "trois"
+  },
+  {
+    "front": "family",
+    "back": "la famille"
+  },
+  {
+    "front": "work",
+    "back": "le travail"
+  },
+  {
+    "front": "head",
+    "back": "la tête"
+  },
+  {
+    "front": "car",
+    "back": "la voiture"
+  },
+  {
+    "front": "idea",
+    "back": "une idée"
+  },
+  {
+    "front": "share",
+    "back": "le part, la part"
+  },
+  {
+    "front": "friend",
+    "back": "un ami"
+  },
+  {
+    "front": "door",
+    "back": "la porte"
+  },
+  {
+    "front": "new",
+    "back": "nouveau"
+  },
+  {
+    "front": "love",
+    "back": "un amour"
+  },
+  {
+    "front": "blood",
+    "back": "le sang"
+  },
+  {
+    "front": "under",
+    "back": "sous"
+  },
+  {
+    "front": "case",
+    "back": "le cas"
+  },
+  {
+    "front": "question",
+    "back": "la question"
+  },
+  {
+    "front": "only",
+    "back": "seulement"
+  },
+  {
+    "front": "police",
+    "back": "la police"
+  },
+  {
+    "front": "city",
+    "back": "la ville"
+  },
+  {
+    "front": "baby",
+    "back": "le bébé"
+  },
+  {
+    "front": "train",
+    "back": "le train"
+  },
+  {
+    "front": "body",
+    "back": "le corps"
+  },
+  {
+    "front": "first",
+    "back": "le premier"
+  },
+  {
+    "front": "hand",
+    "back": "la main"
+  },
+  {
+    "front": "side",
+    "back": "le côté"
+  },
+  {
+    "front": "old",
+    "back": "le vieux"
+  },
+  {
+    "front": "morning",
+    "back": "le matin"
+  },
+  {
+    "front": "child",
+    "back": "un enfant, une enfant"
+  },
+  {
+    "front": "right",
+    "back": "le droit"
+  },
+  {
+    "front": "water",
+    "back": "une eau"
+  },
+  {
+    "front": "big",
+    "back": "gros"
+  },
+  {
+    "front": "school",
+    "back": "une école"
+  },
+  {
+    "front": "fire",
+    "back": "le feu"
+  },
+  {
+    "front": "doctor",
+    "back": "le docteur"
+  },
+  {
+    "front": "day",
+    "back": "la journée"
+  },
+  {
+    "front": "hard",
+    "back": "le dur"
+  },
+  {
+    "front": "boy",
+    "back": "le garçon"
+  },
+  {
+    "front": "team",
+    "back": "une équipe"
+  },
+  {
+    "front": "war",
+    "back": "la guerre"
+  },
+  {
+    "front": "full",
+    "back": "plein"
+  },
+  {
+    "front": "almost",
+    "back": "presque"
+  },
+  {
+    "front": "view",
+    "back": "la vue"
+  },
+  {
+    "front": "game",
+    "back": "le jeu"
+  },
+  {
+    "front": "country",
+    "back": "le pays"
+  },
+  {
+    "front": "guard",
+    "back": "le garde, la garde"
+  },
+  {
+    "front": "five",
+    "back": "cinq"
+  },
+  {
+    "front": "return",
+    "back": "le retour"
+  },
+  {
+    "front": "weapon",
+    "back": "une arme"
+  },
+  {
+    "front": "film",
+    "back": "le film"
+  },
+  {
+    "front": "four",
+    "back": "quatre"
+  },
+  {
+    "front": "plan",
+    "back": "le plan"
+  },
+  {
+    "front": "bed",
+    "back": "le lit"
+  },
+  {
+    "front": "road",
+    "back": "la route"
+  },
+  {
+    "front": "year",
+    "back": "une année"
+  },
+  {
+    "front": "service",
+    "back": "le service"
+  },
+  {
+    "front": "state",
+    "back": "un état"
+  },
+  {
+    "front": "dog",
+    "back": "le chien"
+  },
+  {
+    "front": "photo",
+    "back": "la photo"
+  },
+  {
+    "front": "heart",
+    "back": "le cœur"
+  },
+  {
+    "front": "hospital",
+    "back": "un hôpital"
+  },
+  {
+    "front": "music",
+    "back": "la musique"
+  },
+  {
+    "front": "second",
+    "back": "la seconde"
+  },
+  {
+    "front": "market",
+    "back": "le marché"
+  },
+  {
+    "front": "six",
+    "back": "le six"
+  },
+  {
+    "front": "arm",
+    "back": "le bras"
+  },
+  {
+    "front": "face",
+    "back": "le visage"
+  },
+  {
+    "front": "book",
+    "back": "le livre, la livre"
+  },
+  {
+    "front": "wood",
+    "back": "le bois"
+  },
+  {
+    "front": "message",
+    "back": "le message"
+  },
+  {
+    "front": "year",
+    "back": "un an"
+  },
+  {
+    "front": "king",
+    "back": "le roi"
+  },
+  {
+    "front": "group",
+    "back": "le groupe"
+  },
+  {
+    "front": "call",
+    "back": "un appel"
+  },
+  {
+    "front": "expensive",
+    "back": "cher"
+  },
+  {
+    "front": "street",
+    "back": "la rue"
+  },
+  {
+    "front": "voice",
+    "back": "la voix"
+  },
+  {
+    "front": "black",
+    "back": "le noir"
+  },
+  {
+    "front": "force",
+    "back": "la force"
+  },
+  {
+    "front": "hotel",
+    "back": "un hôtel"
+  },
+  {
+    "front": "crime",
+    "back": "le crime"
+  },
+  {
+    "front": "back",
+    "back": "le dos"
+  },
+  {
+    "front": "army",
+    "back": "une armée"
+  },
+  {
+    "front": "list",
+    "back": "la liste"
+  },
+  {
+    "front": "peace",
+    "back": "la paix"
+  },
+  {
+    "front": "free",
+    "back": "libre"
+  },
+  {
+    "front": "plane",
+    "back": "un avion"
+  },
+  {
+    "front": "control",
+    "back": "le contrôle"
+  },
+  {
+    "front": "table",
+    "back": "la table"
+  },
+  {
+    "front": "bottom",
+    "back": "le fond"
+  },
+  {
+    "front": "line",
+    "back": "la ligne"
+  },
+  {
+    "front": "left",
+    "back": "le gauche, la gauche"
+  },
+  {
+    "front": "clear",
+    "back": "le clair"
+  },
+  {
+    "front": "system",
+    "back": "le système"
+  },
+  {
+    "front": "watch",
+    "back": "la montre"
+  },
+  {
+    "front": "foot",
+    "back": "le pied"
+  },
+  {
+    "front": "light",
+    "back": "la lumière"
+  },
+  {
+    "front": "corner",
+    "back": "le coin"
+  },
+  {
+    "front": "half",
+    "back": "la moitié"
+  },
+  {
+    "front": "club",
+    "back": "le club"
+  },
+  {
+    "front": "camp",
+    "back": "le camp"
+  },
+  {
+    "front": "sun",
+    "back": "le soleil"
+  },
+  {
+    "front": "letter",
+    "back": "la lettre"
+  },
+  {
+    "front": "arrival",
+    "back": "une arrivée"
+  },
+  {
+    "front": "bar",
+    "back": "le bar"
+  },
+  {
+    "front": "law",
+    "back": "la loi"
+  },
+  {
+    "front": "cold",
+    "back": "le froid"
+  },
+  {
+    "front": "offer",
+    "back": "une offre"
+  },
+  {
+    "front": "standing",
+    "back": "debout"
+  },
+  {
+    "front": "box",
+    "back": "la boîte"
+  },
+  {
+    "front": "sky",
+    "back": "le ciel"
+  },
+  {
+    "front": "danger",
+    "back": "le danger"
+  },
+  {
+    "front": "TV",
+    "back": "la télé"
+  },
+  {
+    "front": "judge",
+    "back": "le juge, la juge"
+  },
+  {
+    "front": "right",
+    "back": "la droite"
+  },
+  {
+    "front": "sad",
+    "back": "triste"
+  },
+  {
+    "front": "lady",
+    "back": "la dame"
+  },
+  {
+    "front": "song",
+    "back": "la chanson"
+  },
+  {
+    "front": "health",
+    "back": "la santé"
+  },
+  {
+    "front": "exchange",
+    "back": "le change"
+  },
+  {
+    "front": "center",
+    "back": "le centre"
+  },
+  {
+    "front": "company",
+    "back": "la compagnie"
+  },
+  {
+    "front": "key",
+    "back": "la clé"
+  },
+  {
+    "front": "devil",
+    "back": "le diable"
+  },
+  {
+    "front": "sign",
+    "back": "le signe"
+  },
+  {
+    "front": "mouth",
+    "back": "la bouche"
+  },
+  {
+    "front": "horse",
+    "back": "le cheval"
+  },
+  {
+    "front": "care",
+    "back": "le soin"
+  },
+  {
+    "front": "middle",
+    "back": "le milieu"
+  },
+  {
+    "front": "next",
+    "back": "le prochain"
+  },
+  {
+    "front": "brain",
+    "back": "le cerveau"
+  },
+  {
+    "front": "silence",
+    "back": "le silence"
+  },
+  {
+    "front": "hole",
+    "back": "le trou"
+  },
+  {
+    "front": "meeting",
+    "back": "la réunion"
+  },
+  {
+    "front": "address",
+    "back": "une adresse"
+  },
+  {
+    "front": "skin",
+    "back": "la peau"
+  },
+  {
+    "front": "dress",
+    "back": "la robe"
+  },
+  {
+    "front": "base",
+    "back": "la base"
+  },
+  {
+    "front": "wine",
+    "back": "le vin"
+  },
+  {
+    "front": "sea",
+    "back": "la mer"
+  },
+  {
+    "front": "wrong",
+    "back": "le tort"
+  },
+  {
+    "front": "open",
+    "back": "ouvert"
+  },
+  {
+    "front": "nose",
+    "back": "le nez"
+  },
+  {
+    "front": "entrance",
+    "back": "une entrée"
+  },
+  {
+    "front": "departure",
+    "back": "le départ"
+  },
+  {
+    "front": "moon",
+    "back": "la lune"
+  },
+  {
+    "front": "people",
+    "back": "le peuple"
+  },
+  {
+    "front": "radio",
+    "back": "le radio, la radio"
+  },
+  {
+    "front": "bank",
+    "back": "la banque"
+  },
+  {
+    "front": "future",
+    "back": "un avenir"
+  },
+  {
+    "front": "tea",
+    "back": "le thé"
+  },
+  {
+    "front": "eye",
+    "back": "le œil"
+  },
+  {
+    "front": "human",
+    "back": "un humain"
+  },
+  {
+    "front": "English",
+    "back": "un anglais"
+  },
+  {
+    "front": "food",
+    "back": "la nourriture"
+  },
+  {
+    "front": "north",
+    "back": "le nord"
+  },
+  {
+    "front": "second",
+    "back": "le deuxième, la deuxième"
+  },
+  {
+    "front": "director",
+    "back": "le directeur"
+  },
+  {
+    "front": "wall",
+    "back": "le mur"
+  },
+  {
+    "front": "empty",
+    "back": "le vide"
+  },
+  {
+    "front": "south",
+    "back": "le sud"
+  },
+  {
+    "front": "church",
+    "back": "une église"
+  },
+  {
+    "front": "bomb",
+    "back": "la bombe"
+  },
+  {
+    "front": "code",
+    "back": "le code"
+  },
+  {
+    "front": "level",
+    "back": "le niveau"
+  },
+  {
+    "front": "window",
+    "back": "la fenêtre"
+  },
+  {
+    "front": "store",
+    "back": "le magasin"
+  },
+  {
+    "front": "video",
+    "back": "la vidéo"
+  },
+  {
+    "front": "queen",
+    "back": "la reine"
+  },
+  {
+    "front": "mine",
+    "back": "mien"
+  },
+  {
+    "front": "press",
+    "back": "la presse"
+  },
+  {
+    "front": "pain",
+    "back": "la douleur"
+  },
+  {
+    "front": "truck",
+    "back": "le camion"
+  },
+  {
+    "front": "project",
+    "back": "le projet"
+  },
+  {
+    "front": "meeting",
+    "back": "la rencontre"
+  },
+  {
+    "front": "machine",
+    "back": "la machine"
+  },
+  {
+    "front": "reality",
+    "back": "la réalité"
+  },
+  {
+    "front": "planet",
+    "back": "la planète"
+  },
+  {
+    "front": "pressure",
+    "back": "la pression"
+  },
+  {
+    "front": "Miss",
+    "back": "la mademoiselle"
+  },
+  {
+    "front": "nature",
+    "back": "la nature"
+  },
+  {
+    "front": "monster",
+    "back": "le monstre"
+  },
+  {
+    "front": "rich",
+    "back": "riche"
+  },
+  {
+    "front": "stone",
+    "back": "la pierre"
+  },
+  {
+    "front": "test",
+    "back": "le test"
+  },
+  {
+    "front": "bus",
+    "back": "le bus, la bus"
+  },
+  {
+    "front": "enemy",
+    "back": "un ennemi"
+  },
+  {
+    "front": "knife",
+    "back": "le couteau"
+  },
+  {
+    "front": "wind",
+    "back": "le vent"
+  },
+  {
+    "front": "future",
+    "back": "le futur"
+  },
+  {
+    "front": "meal",
+    "back": "le repas"
+  },
+  {
+    "front": "space",
+    "back": "un espace, une espace"
+  },
+  {
+    "front": "paper",
+    "back": "le papier"
+  },
+  {
+    "front": "conversation",
+    "back": "la conversation"
+  },
+  {
+    "front": "contract",
+    "back": "le contrat"
+  },
+  {
+    "front": "beauty",
+    "back": "la beauté"
+  },
+  {
+    "front": "double",
+    "back": "le double"
+  },
+  {
+    "front": "computer",
+    "back": "un ordinateur"
+  },
+  {
+    "front": "memory",
+    "back": "le mémoire, la mémoire"
+  },
+  {
+    "front": "energy",
+    "back": "une énergie"
+  },
+  {
+    "front": "taxi",
+    "back": "le taxi"
+  },
+  {
+    "front": "couple",
+    "back": "le couple, la couple"
+  },
+  {
+    "front": "action",
+    "back": "une action"
+  },
+  {
+    "front": "target",
+    "back": "la cible"
+  },
+  {
+    "front": "restaurant",
+    "back": "le restaurant"
+  },
+  {
+    "front": "camera",
+    "back": "la caméra"
+  },
+  {
+    "front": "color",
+    "back": "la couleur"
+  },
+  {
+    "front": "island",
+    "back": "la île"
+  },
+  {
+    "front": "soldier",
+    "back": "le soldat"
+  },
+  {
+    "front": "fish",
+    "back": "le poisson"
+  },
+  {
+    "front": "American",
+    "back": "un américain"
+  },
+  {
+    "front": "mark",
+    "back": "le mark"
+  },
+  {
+    "front": "milk",
+    "back": "le lait"
+  },
+  {
+    "front": "bridge",
+    "back": "le pont"
+  },
+  {
+    "front": "stop",
+    "back": "un arrêt"
+  },
+  {
+    "front": "bottle",
+    "back": "la bouteille"
+  },
+  {
+    "front": "French",
+    "back": "le français"
+  },
+  {
+    "front": "art",
+    "back": "un art"
+  },
+  {
+    "front": "date",
+    "back": "la date"
+  },
+  {
+    "front": "bone",
+    "back": "un os"
+  },
+  {
+    "front": "cake",
+    "back": "le gâteau"
+  },
+  {
+    "front": "leg",
+    "back": "la jambe"
+  },
+  {
+    "front": "signal",
+    "back": "le signal"
+  },
+  {
+    "front": "cinema",
+    "back": "le cinéma"
+  },
+  {
+    "front": "angel",
+    "back": "un ange"
+  },
+  {
+    "front": "star",
+    "back": "la star"
+  },
+  {
+    "front": "hat",
+    "back": "le chapeau"
+  },
+  {
+    "front": "product",
+    "back": "le produit"
+  },
+  {
+    "front": "season",
+    "back": "la saison"
+  },
+  {
+    "front": "success",
+    "back": "le succès"
+  },
+  {
+    "front": "bread",
+    "back": "le pain"
+  },
+  {
+    "front": "roof",
+    "back": "le toit"
+  },
+  {
+    "front": "tree",
+    "back": "un arbre"
+  },
+  {
+    "front": "exchange",
+    "back": "un échange"
+  },
+  {
+    "front": "park",
+    "back": "le parc"
+  },
+  {
+    "front": "beach",
+    "back": "la plage"
+  },
+  {
+    "front": "west",
+    "back": "un ouest"
+  },
+  {
+    "front": "member",
+    "back": "le membre"
+  },
+  {
+    "front": "real",
+    "back": "le réel"
+  },
+  {
+    "front": "weight",
+    "back": "le poids"
+  },
+  {
+    "front": "pocket",
+    "back": "la poche"
+  },
+  {
+    "front": "speed",
+    "back": "la vitesse"
+  },
+  {
+    "front": "meat",
+    "back": "la viande"
+  },
+  {
+    "front": "chicken",
+    "back": "le poulet"
+  },
+  {
+    "front": "page",
+    "back": "le page, la page"
+  },
+  {
+    "front": "finger",
+    "back": "le doigt"
+  },
+  {
+    "front": "change",
+    "back": "le changement"
+  },
+  {
+    "front": "animal",
+    "back": "un animal"
+  },
+  {
+    "front": "building",
+    "back": "le bâtiment"
+  },
+  {
+    "front": "cancer",
+    "back": "le cancer"
+  },
+  {
+    "front": "direct",
+    "back": "direct"
+  },
+  {
+    "front": "gas",
+    "back": "le gaz"
+  },
+  {
+    "front": "information",
+    "back": "une information"
+  },
+  {
+    "front": "style",
+    "back": "le style"
+  },
+  {
+    "front": "airport",
+    "back": "un aéroport"
+  },
+  {
+    "front": "Chinese",
+    "back": "le chinois"
+  },
+  {
+    "front": "building",
+    "back": "un immeuble"
+  },
+  {
+    "front": "blind",
+    "back": "un aveugle, une aveugle"
+  },
+  {
+    "front": "military",
+    "back": "le militaire"
+  },
+  {
+    "front": "protection",
+    "back": "la protection"
+  },
+  {
+    "front": "bird",
+    "back": "un oiseau"
+  },
+  {
+    "front": "famous",
+    "back": "célèbre"
+  },
+  {
+    "front": "sport",
+    "back": "le sport"
+  },
+  {
+    "front": "east",
+    "back": "un est"
+  },
+  {
+    "front": "common",
+    "back": "commun"
+  },
+  {
+    "front": "rain",
+    "back": "la pluie"
+  },
+  {
+    "front": "tent",
+    "back": "la tente"
+  },
+  {
+    "front": "chocolate",
+    "back": "le chocolat"
+  },
+  {
+    "front": "mouse",
+    "back": "la souris"
+  },
+  {
+    "front": "snow",
+    "back": "la neige"
+  },
+  {
+    "front": "theater",
+    "back": "le théâtre"
+  },
+  {
+    "front": "chair",
+    "back": "la chaise"
+  },
+  {
+    "front": "translation",
+    "back": "la traduction"
+  },
+  {
+    "front": "mountain",
+    "back": "la montagne"
+  },
+  {
+    "front": "throat",
+    "back": "la gorge"
+  },
+  {
+    "front": "second",
+    "back": "le second"
+  },
+  {
+    "front": "cell",
+    "back": "la cellule"
+  },
+  {
+    "front": "divorce",
+    "back": "le divorce"
+  },
+  {
+    "front": "bear",
+    "back": "un ours"
+  },
+  {
+    "front": "exam",
+    "back": "un examen"
+  },
+  {
+    "front": "forest",
+    "back": "la forêt"
+  },
+  {
+    "front": "distance",
+    "back": "la distance"
+  },
+  {
+    "front": "model",
+    "back": "le modèle"
+  },
+  {
+    "front": "power",
+    "back": "la puissance"
+  },
+  {
+    "front": "credit",
+    "back": "le crédit"
+  },
+  {
+    "front": "concert",
+    "back": "le concert"
+  },
+  {
+    "front": "noon",
+    "back": "le midi"
+  },
+  {
+    "front": "explosion",
+    "back": "une explosion"
+  },
+  {
+    "front": "announcement",
+    "back": "une annonce"
+  },
+  {
+    "front": "ear",
+    "back": "une oreille"
+  },
+  {
+    "front": "cow",
+    "back": "la vache"
+  },
+  {
+    "front": "station",
+    "back": "la station"
+  },
+  {
+    "front": "sale",
+    "back": "la vente"
+  },
+  {
+    "front": "measure",
+    "back": "la mesure"
+  },
+  {
+    "front": "garage",
+    "back": "le garage"
+  },
+  {
+    "front": "castle",
+    "back": "le château"
+  },
+  {
+    "front": "motor",
+    "back": "le moteur"
+  },
+  {
+    "front": "iron",
+    "back": "le fer"
+  },
+  {
+    "front": "artist",
+    "back": "un artiste, une artiste"
+  },
+  {
+    "front": "dark",
+    "back": "sombre"
+  },
+  {
+    "front": "check",
+    "back": "le chèque"
+  },
+  {
+    "front": "cheese",
+    "back": "le fromage"
+  },
+  {
+    "front": "ticket",
+    "back": "le billet"
+  },
+  {
+    "front": "skull",
+    "back": "le crâne"
+  },
+  {
+    "front": "half",
+    "back": "le demi"
+  },
+  {
+    "front": "science",
+    "back": "la science"
+  },
+  {
+    "front": "sugar",
+    "back": "le sucre"
+  },
+  {
+    "front": "bell",
+    "back": "la cloche"
+  },
+  {
+    "front": "fall",
+    "back": "la chute"
+  },
+  {
+    "front": "player",
+    "back": "le joueur"
+  },
+  {
+    "front": "soup",
+    "back": "la soupe"
+  },
+  {
+    "front": "cream",
+    "back": "le crème, la crème"
+  },
+  {
+    "front": "adventure",
+    "back": "une aventure"
+  },
+  {
+    "front": "winter",
+    "back": "un hiver"
+  },
+  {
+    "front": "network",
+    "back": "le réseau"
+  },
+  {
+    "front": "shop",
+    "back": "la boutique"
+  },
+  {
+    "front": "empire",
+    "back": "un empire"
+  },
+  {
+    "front": "ball",
+    "back": "le ballon"
+  },
+  {
+    "front": "task",
+    "back": "la tâche"
+  },
+  {
+    "front": "community",
+    "back": "la communauté"
+  },
+  {
+    "front": "heavy",
+    "back": "lourd"
+  },
+  {
+    "front": "wolf",
+    "back": "le loup"
+  },
+  {
+    "front": "ship",
+    "back": "le navire"
+  },
+  {
+    "front": "flower",
+    "back": "la fleur"
+  },
+  {
+    "front": "professional",
+    "back": "le professionnel"
+  },
+  {
+    "front": "monkey",
+    "back": "le singe"
+  },
+  {
+    "front": "screen",
+    "back": "un écran"
+  },
+  {
+    "front": "assistant",
+    "back": "assistant"
+  },
+  {
+    "front": "limit",
+    "back": "la limite"
+  },
+  {
+    "front": "block",
+    "back": "le bloc"
+  },
+  {
+    "front": "mask",
+    "back": "le masque"
+  },
+  {
+    "front": "temple",
+    "back": "le temple"
+  },
+  {
+    "front": "alarm",
+    "back": "une alarme"
+  },
+  {
+    "front": "natural",
+    "back": "naturel"
+  },
+  {
+    "front": "piano",
+    "back": "le piano"
+  },
+  {
+    "front": "passion",
+    "back": "la passion"
+  },
+  {
+    "front": "star",
+    "back": "une étoile"
+  },
+  {
+    "front": "steering wheel",
+    "back": "le volant"
+  },
+  {
+    "front": "library",
+    "back": "la bibliothèque"
+  },
+  {
+    "front": "smoke",
+    "back": "la fumée"
+  },
+  {
+    "front": "section",
+    "back": "la section"
+  },
+  {
+    "front": "cage",
+    "back": "la cage"
+  },
+  {
+    "front": "mirror",
+    "back": "le miroir"
+  },
+  {
+    "front": "condition",
+    "back": "la condition"
+  },
+  {
+    "front": "equal",
+    "back": "égal"
+  },
+  {
+    "front": "suitcase",
+    "back": "la valise"
+  },
+  {
+    "front": "technology",
+    "back": "la technologie"
+  },
+  {
+    "front": "pig",
+    "back": "le cochon"
+  },
+  {
+    "front": "spring",
+    "back": "le printemps"
+  },
+  {
+    "front": "correct",
+    "back": "correct"
+  },
+  {
+    "front": "ball",
+    "back": "le boule, la boule"
+  },
+  {
+    "front": "rat",
+    "back": "le rat"
+  },
+  {
+    "front": "medical",
+    "back": "médical"
+  },
+  {
+    "front": "fever",
+    "back": "la fièvre"
+  },
+  {
+    "front": "museum",
+    "back": "le musée"
+  },
+  {
+    "front": "shoulder",
+    "back": "une épaule"
+  },
+  {
+    "front": "sand",
+    "back": "le sable"
+  },
+  {
+    "front": "education",
+    "back": "une éducation"
+  },
+  {
+    "front": "butter",
+    "back": "le beurre"
+  },
+  {
+    "front": "orange",
+    "back": "un orange, une orange"
+  },
+  {
+    "front": "cross",
+    "back": "la croix"
+  },
+  {
+    "front": "wallet",
+    "back": "le portefeuille"
+  },
+  {
+    "front": "public",
+    "back": "publique"
+  },
+  {
+    "front": "rent",
+    "back": "le loyer"
+  },
+  {
+    "front": "invitation",
+    "back": "une invitation"
+  },
+  {
+    "front": "cassette",
+    "back": "la cassette"
+  },
+  {
+    "front": "reception",
+    "back": "la réception"
+  },
+  {
+    "front": "employee",
+    "back": "un employé"
+  },
+  {
+    "front": "electric",
+    "back": "électrique"
+  },
+  {
+    "front": "powder",
+    "back": "la poudre"
+  },
+  {
+    "front": "division",
+    "back": "la division"
+  },
+  {
+    "front": "negative",
+    "back": "négatif"
+  },
+  {
+    "front": "language",
+    "back": "le langage"
+  },
+  {
+    "front": "temperature",
+    "back": "la température"
+  },
+  {
+    "front": "morning",
+    "back": "la matinée"
+  },
+  {
+    "front": "guide",
+    "back": "le guide, la guide"
+  },
+  {
+    "front": "tunnel",
+    "back": "le tunnel"
+  },
+  {
+    "front": "liver",
+    "back": "le foie"
+  },
+  {
+    "front": "height",
+    "back": "une hauteur"
+  },
+  {
+    "front": "culture",
+    "back": "la culture"
+  },
+  {
+    "front": "stress",
+    "back": "le stress"
+  },
+  {
+    "front": "album",
+    "back": "un album"
+  },
+  {
+    "front": "electricity",
+    "back": "une électricité"
+  },
+  {
+    "front": "study",
+    "back": "une étude"
+  },
+  {
+    "front": "city",
+    "back": "la cité"
+  },
+  {
+    "front": "dollar",
+    "back": "le dollar"
+  },
+  {
+    "front": "laboratory",
+    "back": "le laboratoire"
+  },
+  {
+    "front": "religion",
+    "back": "la religion"
+  },
+  {
+    "front": "round",
+    "back": "le rond"
+  },
+  {
+    "front": "manual",
+    "back": "le manuel"
+  },
+  {
+    "front": "character",
+    "back": "le caractère"
+  },
+  {
+    "front": "nuclear",
+    "back": "nucléaire"
+  },
+  {
+    "front": "official",
+    "back": "officiel"
+  },
+  {
+    "front": "disaster",
+    "back": "le désastre"
+  },
+  {
+    "front": "budget",
+    "back": "le budget"
+  },
+  {
+    "front": "flag",
+    "back": "le drapeau"
+  },
+  {
+    "front": "Indian",
+    "back": "un indien"
+  },
+  {
+    "front": "process",
+    "back": "le processus"
+  },
+  {
+    "front": "intelligence",
+    "back": "une intelligence"
+  },
+  {
+    "front": "passport",
+    "back": "le passeport"
+  },
+  {
+    "front": "strategy",
+    "back": "la stratégie"
+  },
+  {
+    "front": "apple",
+    "back": "la pomme"
+  },
+  {
+    "front": "torture",
+    "back": "la torture"
+  },
+  {
+    "front": "sample",
+    "back": "un échantillon"
+  },
+  {
+    "front": "tooth",
+    "back": "le dent, la dent"
+  },
+  {
+    "front": "equipment",
+    "back": "un équipement"
+  },
+  {
+    "front": "salt",
+    "back": "le sel"
+  },
+  {
+    "front": "modern",
+    "back": "moderne"
+  },
+  {
+    "front": "positive",
+    "back": "le positif"
+  },
+  {
+    "front": "media",
+    "back": "médias"
+  },
+  {
+    "front": "valley",
+    "back": "la vallée"
+  },
+  {
+    "front": "fruit",
+    "back": "le fruit"
+  },
+  {
+    "front": "plant",
+    "back": "la plante"
+  },
+  {
+    "front": "essential",
+    "back": "un essentiel"
+  },
+  {
+    "front": "transportation",
+    "back": "le transport"
+  },
+  {
+    "front": "statue",
+    "back": "la statue"
+  },
+  {
+    "front": "hill",
+    "back": "la colline"
+  },
+  {
+    "front": "symbol",
+    "back": "le symbole"
+  },
+  {
+    "front": "warning",
+    "back": "un avertissement"
+  },
+  {
+    "front": "wheel",
+    "back": "roue"
+  },
+  {
+    "front": "helicopter",
+    "back": "un hélicoptère"
+  },
+  {
+    "front": "medal",
+    "back": "la médaille"
+  },
+  {
+    "front": "text",
+    "back": "le texte"
+  },
+  {
+    "front": "car",
+    "back": "un auto, une auto"
+  },
+  {
+    "front": "wheat",
+    "back": "le blé"
+  },
+  {
+    "front": "record",
+    "back": "le record"
+  },
+  {
+    "front": "basket",
+    "back": "le panier"
+  },
+  {
+    "front": "historical",
+    "back": "un historique"
+  },
+  {
+    "front": "candidate",
+    "back": "le candidat"
+  },
+  {
+    "front": "tube",
+    "back": "le tube"
+  },
+  {
+    "front": "engineer",
+    "back": "un ingénieur, une ingénieur"
+  },
+  {
+    "front": "knee",
+    "back": "le genou"
+  },
+  {
+    "front": "fragile",
+    "back": "fragile"
+  },
+  {
+    "front": "pregnancy",
+    "back": "la grossesse"
+  },
+  {
+    "front": "trouble",
+    "back": "le trouble"
+  },
+  {
+    "front": "song",
+    "back": "le chant"
+  },
+  {
+    "front": "toy",
+    "back": "le jouet"
+  },
+  {
+    "front": "tennis",
+    "back": "le tennis"
+  },
+  {
+    "front": "destination",
+    "back": "la destination"
+  },
+  {
+    "front": "punishment",
+    "back": "la punition"
+  },
+  {
+    "front": "Swiss",
+    "back": "le suisse"
+  },
+  {
+    "front": "diamond",
+    "back": "le diamant"
+  },
+  {
+    "front": "key",
+    "back": "la clef"
+  },
+  {
+    "front": "file",
+    "back": "le fichier"
+  },
+  {
+    "front": "verdict",
+    "back": "le verdict"
+  },
+  {
+    "front": "antenna",
+    "back": "une antenne"
+  },
+  {
+    "front": "document",
+    "back": "le document"
+  },
+  {
+    "front": "creation",
+    "back": "la création"
+  },
+  {
+    "front": "circuit",
+    "back": "le circuit"
+  },
+  {
+    "front": "famous",
+    "back": "fameux"
+  },
+  {
+    "front": "structure",
+    "back": "la structure"
+  },
+  {
+    "front": "international",
+    "back": "international"
+  },
+  {
+    "front": "development",
+    "back": "le développement"
+  },
+  {
+    "front": "slow",
+    "back": "lent"
+  },
+  {
+    "front": "cloud",
+    "back": "le nuage"
+  },
+  {
+    "front": "social",
+    "back": "le social"
+  },
+  {
+    "front": "specialty",
+    "back": "la spécialité"
+  },
+  {
+    "front": "presentation",
+    "back": "la présentation"
+  },
+  {
+    "front": "arrow",
+    "back": "la flèche"
+  },
+  {
+    "front": "pump",
+    "back": "la pompe"
+  },
+  {
+    "front": "solar",
+    "back": "solaire"
+  },
+  {
+    "front": "old",
+    "back": "âgé"
+  },
+  {
+    "front": "automatic",
+    "back": "automatique"
+  },
+  {
+    "front": "egg",
+    "back": "le œuf"
+  },
+  {
+    "front": "lightning",
+    "back": "le foudre, la foudre"
+  },
+  {
+    "front": "instrument",
+    "back": "un instrument"
+  },
+  {
+    "front": "certificate",
+    "back": "le certificat"
+  },
+  {
+    "front": "fuel",
+    "back": "le carburant"
+  },
+  {
+    "front": "winner",
+    "back": "le vainqueur, la vainqueur"
+  },
+  {
+    "front": "electronic",
+    "back": "électronique"
+  },
+  {
+    "front": "food",
+    "back": "alimentaire"
+  },
+  {
+    "front": "favorite",
+    "back": "le favori"
+  },
+  {
+    "front": "prisoner",
+    "back": "le détenu"
+  },
+  {
+    "front": "score",
+    "back": "le score"
+  },
+  {
+    "front": "tank",
+    "back": "le char, la char"
+  },
+  {
+    "front": "chemical",
+    "back": "chimique"
+  },
+  {
+    "front": "performance",
+    "back": "la performance"
+  },
+  {
+    "front": "tire",
+    "back": "le pneu"
+  },
+  {
+    "front": "payment",
+    "back": "le paiement"
+  },
+  {
+    "front": "farmer",
+    "back": "le fermier"
+  },
+  {
+    "front": "photography",
+    "back": "la photographie"
+  },
+  {
+    "front": "calendar",
+    "back": "le calendrier"
+  },
+  {
+    "front": "feather",
+    "back": "le plume, la plume"
+  },
+  {
+    "front": "chemistry",
+    "back": "la chimie"
+  },
+  {
+    "front": "family",
+    "back": "familial"
+  },
+  {
+    "front": "regiment",
+    "back": "le régiment"
+  },
+  {
+    "front": "colony",
+    "back": "la colonie"
+  },
+  {
+    "front": "volume",
+    "back": "le volume"
+  },
+  {
+    "front": "Christian",
+    "back": "le chrétien"
+  },
+  {
+    "front": "management",
+    "back": "la gestion"
+  },
+  {
+    "front": "architect",
+    "back": "un architecte, une architecte"
+  },
+  {
+    "front": "soft",
+    "back": "le mou"
+  },
+  {
+    "front": "meter",
+    "back": "le mètre"
+  },
+  {
+    "front": "root",
+    "back": "la racine"
+  },
+  {
+    "front": "tool",
+    "back": "un outil"
+  },
+  {
+    "front": "conception",
+    "back": "la conception"
+  },
+  {
+    "front": "fiction",
+    "back": "la fiction"
+  },
+  {
+    "front": "sheep",
+    "back": "le mouton"
+  },
+  {
+    "front": "growth",
+    "back": "la croissance"
+  },
+  {
+    "front": "triumph",
+    "back": "le triomphe"
+  },
+  {
+    "front": "information",
+    "back": "le renseignement"
+  },
+  {
+    "front": "essential",
+    "back": "indispensable"
+  },
+  {
+    "front": "worker",
+    "back": "un ouvrier"
+  },
+  {
+    "front": "Asian",
+    "back": "asiatique"
+  },
+  {
+    "front": "globe",
+    "back": "le globe"
+  },
+  {
+    "front": "hair",
+    "back": "le cheveu"
+  },
+  {
+    "front": "wave",
+    "back": "une onde"
+  },
+  {
+    "front": "explosive",
+    "back": "un explosif"
+  },
+  {
+    "front": "bubble",
+    "back": "la bulle"
+  },
+  {
+    "front": "specific",
+    "back": "spécifique"
+  },
+  {
+    "front": "nurse",
+    "back": "un infirmier"
+  },
+  {
+    "front": "musical",
+    "back": "musical"
+  },
+  {
+    "front": "support",
+    "back": "un appui"
+  },
+  {
+    "front": "notebook",
+    "back": "le cahier"
+  },
+  {
+    "front": "pole",
+    "back": "le pôle"
+  },
+  {
+    "front": "selection",
+    "back": "la sélection"
+  },
+  {
+    "front": "finance",
+    "back": "la finance"
+  },
+  {
+    "front": "worker",
+    "back": "le travailleur"
+  },
+  {
+    "front": "neutral",
+    "back": "neutre"
+  },
+  {
+    "front": "collaboration",
+    "back": "la collaboration"
+  },
+  {
+    "front": "regular",
+    "back": "régulier"
+  },
+  {
+    "front": "aviation",
+    "back": "une aviation"
+  },
+  {
+    "front": "bus",
+    "back": "un autobus"
+  },
+  {
+    "front": "global",
+    "back": "global"
+  },
+  {
+    "front": "warm",
+    "back": "chaleureux"
+  },
+  {
+    "front": "navigation",
+    "back": "la navigation"
+  },
+  {
+    "front": "golden",
+    "back": "doré"
+  },
+  {
+    "front": "architecture",
+    "back": "une architecture"
+  },
+  {
+    "front": "teacher",
+    "back": "un enseignant"
+  },
+  {
+    "front": "twin",
+    "back": "le jumeau"
+  },
+  {
+    "front": "bar",
+    "back": "le barreau"
+  },
+  {
+    "front": "monument",
+    "back": "le monument"
+  },
+  {
+    "front": "crossing",
+    "back": "la traversée"
+  },
+  {
+    "front": "Islam",
+    "back": "un islam"
+  },
+  {
+    "front": "agriculture",
+    "back": "une agriculture"
+  },
+  {
+    "front": "hierarchy",
+    "back": "une hiérarchie"
+  },
+  {
+    "front": "philosopher",
+    "back": "le philosophe, la philosophe"
+  },
+  {
+    "front": "organic",
+    "back": "organique"
+  },
+  {
+    "front": "artificial",
+    "back": "artificiel"
+  },
+  {
+    "front": "vegetable",
+    "back": "le légume, la légume"
+  },
+  {
+    "front": "crime",
+    "back": "la criminalité"
+  },
+  {
+    "front": "block",
+    "back": "le blocage"
+  },
+  {
+    "front": "pillar",
+    "back": "le pilier"
+  },
+  {
+    "front": "work",
+    "back": "un ouvrage"
+  },
+  {
+    "front": "school teacher",
+    "back": "un instituteur"
+  },
+  {
+    "front": "primitive",
+    "back": "primitif"
+  },
+  {
+    "front": "pollution",
+    "back": "la pollution"
+  },
+  {
+    "front": "programming",
+    "back": "la programmation"
+  },
+  {
+    "front": "media",
+    "back": "médiatique"
+  },
+  {
+    "front": "interface",
+    "back": "une interface"
+  },
+  {
+    "front": "Egyptian",
+    "back": "un égyptien"
+  },
+  {
+    "front": "transit",
+    "back": "transit"
+  },
+  {
+    "front": "building",
+    "back": "un édifice"
+  },
+  {
+    "front": "payment",
+    "back": "le versement"
+  },
+  {
+    "front": "user",
+    "back": "un utilisateur"
+  },
+  {
+    "front": "radioactive",
+    "back": "radioactif"
+  },
+  {
+    "front": "afternoon",
+    "back": "après-midi"
+  },
+  {
+    "front": "shelter",
+    "back": "un abri"
+  },
+  {
+    "front": "euro",
+    "back": "un euro"
+  },
+  {
+    "front": "appointment",
+    "back": "rendez-vous"
+  },
+  {
+    "front": "multiple",
+    "back": "le multiple"
+  },
+  {
+    "front": "shutter",
+    "back": "le volet"
+  },
+  {
+    "front": "farmer",
+    "back": "un agriculteur"
+  },
+  {
+    "front": "Oriental",
+    "back": "oriental"
+  },
+  {
+    "front": "variable",
+    "back": "la variable"
+  },
+  {
+    "front": "increase",
+    "back": "un accroissement"
+  },
+  {
+    "front": "food",
+    "back": "un aliment"
+  },
+  {
+    "front": "speaker",
+    "back": "un interlocuteur"
+  },
+  {
+    "front": "user",
+    "back": "un usager"
+  },
+  {
+    "front": "material",
+    "back": "le matériau"
+  },
+  {
+    "front": "grandfather",
+    "back": "grand-père"
+  },
+  {
+    "front": "grandmother",
+    "back": "grand-mère"
+  },
+  {
+    "front": "content",
+    "back": "le teneur, la teneur"
+  },
+  {
+    "front": "ecological",
+    "back": "écologique"
+  },
+  {
+    "front": "mining",
+    "back": "minier"
+  },
+  {
+    "front": "cereal",
+    "back": "la céréale"
+  }
+]
