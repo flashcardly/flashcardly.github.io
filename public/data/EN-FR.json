@@ -1752,14 +1752,6 @@
     "back": "le réalisateur"
   },
   {
-    "front": "wheel",
-    "back": "roue_"
-  },
-  {
-    "front": "helicopter",
-    "back": "un hélicoptère"
-  },
-  {
     "front": "medal",
     "back": "la médaille"
   },
@@ -1778,10 +1770,6 @@
   {
     "front": "envelope",
     "back": "une enveloppe"
-  },
-  {
-    "front": "wheat",
-    "back": "le blé"
   },
   {
     "front": "record",
@@ -2220,10 +2208,6 @@
     "back": "la traversée"
   },
   {
-    "front": "Islam",
-    "back": "un islam"
-  },
-  {
     "front": "agriculture",
     "back": "une agriculture"
   },
@@ -2390,10 +2374,6 @@
   {
     "front": "safe",
     "back": "sécuritaire"
-  },
-  {
-    "front": "cereal",
-    "back": "la céréale"
   },
   {
     "front": "and",
@@ -4144,12 +4124,8 @@
     "back": "un avertissement"
   },
   {
-    "front": "director",
-    "back": "le réalisateur"
-  },
-  {
     "front": "wheel",
-    "back": "roue_"
+    "back": "roue"
   },
   {
     "front": "helicopter",
@@ -4160,20 +4136,12 @@
     "back": "la médaille"
   },
   {
-    "front": "helmet",
-    "back": "le casque"
-  },
-  {
     "front": "text",
     "back": "le texte"
   },
   {
     "front": "car",
     "back": "un auto, une auto"
-  },
-  {
-    "front": "envelope",
-    "back": "une enveloppe"
   },
   {
     "front": "wheat",
@@ -4214,10 +4182,6 @@
   {
     "front": "pregnancy",
     "back": "la grossesse"
-  },
-  {
-    "front": "royal",
-    "back": "royal"
   },
   {
     "front": "trouble",
@@ -4782,10 +4746,6 @@
   {
     "front": "mining",
     "back": "minier"
-  },
-  {
-    "front": "safe",
-    "back": "sécuritaire"
   },
   {
     "front": "cereal",

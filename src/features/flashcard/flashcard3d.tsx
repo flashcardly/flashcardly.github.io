@@ -15,6 +15,8 @@ export const Flashcard3d = ({ deck }: FlashcardProps): JSX.Element => {
     const showRandomCard = () => {
         setIndex(Math.floor(Math.random() * deck.length));
         setIsFront(true);
+        const element = cardRef.current;
+        element!.style.transform = startAngle.transform;
     };
 
     useEffect(() => {
@@ -28,13 +30,19 @@ export const Flashcard3d = ({ deck }: FlashcardProps): JSX.Element => {
         if (!cardRef.current) return;
         const element = cardRef.current;
         const keyframes = [startAngle, endAngle];
-        const timing = { duration: 700, easing: "cubic-bezier(1,.01,.01,.98)"};
+        const timing = { duration: 700, easing: "ease-in-out" };
+
         const animation = element.animate(keyframes, timing);
 
         if (!isFront) {
             animation.finish();
             animation.reverse();
         }
+        animation.addEventListener("finish", () => {
+            element.style.transform = !isFront
+              ? startAngle.transform
+              : endAngle.transform;
+        }, { once: true });
         setIsFront(!isFront);
     }
     const reset = () => {
@@ -43,7 +51,7 @@ export const Flashcard3d = ({ deck }: FlashcardProps): JSX.Element => {
     }
 
 
-    const rotation = isFront ? `rotateY(0turn)` : `rotateY(0.5turn)`;
+    // const rotation = isFront ? `rotateY(0turn)` : `rotateY(0.5turn)`;
     const card = deck[index] ?? { front: "", back: "" };
     return (
         <div>
@@ -51,7 +59,7 @@ export const Flashcard3d = ({ deck }: FlashcardProps): JSX.Element => {
                 <div
                     onClick={flipCard}
                     ref={cardRef}
-                    style={{height:"300px", transformStyle: "preserve-3d", transform: rotation }}>
+                    style={{height:"300px", transformStyle: "preserve-3d" }}>
                     <div className="card__face" style={{ WebkitBackfaceVisibility:"hidden" }}>{card.front}</div>
                     <div className="card__face" style={{ WebkitBackfaceVisibility:"hidden", transform: "rotateY(180deg)" }}>{card.back}</div>
                 </div>
