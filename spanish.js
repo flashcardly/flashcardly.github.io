@@ -2,6 +2,7 @@ const getSpanishWords = () => {
         return a
     }
     let a = [];
+a.push({"front":"gato (noun)","back":"cat ","icon":""});
 a.push({"front":"absoluto (adj)","back":"absolute ","icon":""});
 a.push({"front":"actual (adj)","back":"current (adj) ","icon":""});
 a.push({"front":"adecuado (adj)","back":"adequate, suitable ","icon":""});
